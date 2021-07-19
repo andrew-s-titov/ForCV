@@ -1,0 +1,1200 @@
+﻿----------------------- Page 1-----------------------
+
+                                  ILLINOIS COMPILED STATUTES  
+                                                              
+                               CHAPTER 5. GENERAL PROVISIONS  
+                           ACT 312. ILLINOIS NOTARY PUBLIC ACT   
+                                                                
+                                                   ARTICLE I  
+                                          GENERAL PROVISIONS  
+                                                                
+ 5 ILCS 312/1-101. Short Title.  
+     This Act shall be known and may be cited as the “Illinois Notary Public Act”.  
+       
+5 ILCS 312/1-102. Purposes and Rules of Construction  
+     (a) This Act shall be construed and applied to promote its underlying purposes and  
+policies.  
+     (b) The underlying purposes and policies of this Act are:  
+     (1) to simplify, clarify, and modernize the law governing notaries public; and  
+     (2) to promote, serve, and protect the public interest.  
+       
+5 ILCS 312/1-103. Prospective Effect of Act.  
+     This Act applies prospectively. Nothing in this Act shall be construed to revoke any  
+notary public commission existing on the effective date of this Act. All reappointments of  
+notarial commissions shall be obtained in accordance with this Act.  
+       
+5 ILCS 312/1-104. Notary Public and Notarization Defined.  
+     (a) The terms “notary public” and “notary” are used interchangeably to mean any  
+individual appointed and commissioned to perform notarial acts.  
+     (b) “Notarization” means the performance of a notarial act.  
+     (c) “Accredited immigration representative” means a not-for-profit organization  
+recognized by the Board of Immigration Appeals under 8 C.F.R. 292.2(a) and employees  
+of those organizations accredited under 8 C.F.R. 292.2(d).   
+                                                              
+                                                   ARTICLE II   
+                                      APPOINTMENT PROVISIONS  
+       
+5 ILCS 312/2-101. Appointment.  
+     The Secretary of State may appoint and commission as notaries public for a 4-year  
+term as many persons resident in a county in this State as he deems necessary. The  
+Secretary of State may appoint and commission as notaries public for a one-year term as  
+many persons who are residents of a state bordering Illinois whose place of work or  
+business is within a county in this State as the Secretary deems necessary, but only if the  
+laws of that state authorize residents of Illinois to be appointed and commissioned as  
+notaries public in that state.  
+  
+5 ILCS 312/2-102. Application.  
+     Every applicant for appointment and commission as a notary shall complete an  
+application in a format prescribed by the Secretary of State to be filed with the Secretary  
+of State, stating:  
+     (a)  the applicant ’s official name, as it appears on his or her current driver ’s license or  
+state-issued identification card;  
+
+Revised  1/ 1/2020                                         -1-  
+                                                              
+
+----------------------- Page 2-----------------------
+
+     (b)  the county in which the applicant resides or, if the applicant is a resident of a state  
+bordering Illinois, the county in Illinois in which that person ’s principal place of work or  
+principal place of business is located;  
+     (c)  the applicant ’s residence address, as it appears on his or her current driver ’s  
+license or state-issued identification card;  
+     (c-5) the applicant’s business address if different than the applicant ’s residence  
+address, if performing notarial acts constitutes any portion of the applicant’s job duties;  
+     (d)  that the applicant has resided in the State of Illinois for 30 days preceding the  
+application or that the applicant who is a resident of a state bordering Illinois has worked  
+or maintained a business in Illinois for 30 days preceding the application;  
+     (e)  that the applicant is a citizen of the United States or an alien lawfully admitted for  
+permanent residence in the United States;  
+     (f)  the applicant ’s date of birth;  
+     (g)  that the applicant is able to read and write the English language;  
+     (h)  that the applicant has never been the holder of a notary public appointment that  
+was revoked or suspended during the past 10 years;  
+     (i)  that the applicant has not been convicted of a felony;   
+     (i-5) that the applicant’s signature authorizes the Office of the Secretary of State to  
+conduct a verification to confirm the information provided in the application, including a  
+criminal background check of the applicant, if necessary;  
+     (j)  that the applicant ’s signature authorizes the Office of the Secretary of State to  
+conduct a verification to confirm the information provided in the application; and  
+     (k)  any other information the Secretary of State deems necessary.  
+  
+5 ILCS 312/2-102.5. Online notary public application system.  
+     (a) The Secretary of State may establish and maintain an online application system  
+that permits an Illinois resident to apply for appointment and commission as a notary  
+public.  
+     (b) Any such online notary public application system shall employ security measures  
+to ensure the accuracy and integrity of notary public applications submitted electronically  
+under this Section.  
+     (c) The Secretary of State may cross reference information provided by applicants  
+with that contained in the Secretary of State ’s driver ’s license and Illinois Identification  
+Card databases in order to match the information submitted by applicants, and may  
+receive from those databases the applicant ’s digitized signature upon a successful match  
+of the applicant’s information with that information contained in the databases.  
+     (d) An online notary public application shall contain all of the information that is  
+required for a paper application as provided in Section 2-102 of this Act. The applicant  
+shall also be required to provide:  
+     (1) the applicant’s full Illinois driver ’s license or Illinois Identification Card number;  
+     (2) the date of issuance of the Illinois driver ’s license or Illinois Identification Card;  
+and  
+     (3) the applicant’s e-mail address for notices to be provided under this Section.  
+     (e) For his or her application to be accepted, the applicant shall mark the box  
+associated with the following statement included as part of the online notary public  
+application: "By clicking on the box below, I swear or affirm all of the following:  
+     (1) I am the person whose name and identifying information is provided on this form,  
+and I desire to be appointed and commissioned as a notary public in the State of Illinois.  
+
+Revised  1/ 1/2020                                       -2-  
+                                                            
+
+----------------------- Page 3-----------------------
+
+     (2) All the information I have provided on this form is true and correct as of the date I  
+am submitting this form.  
+     (3) I authorize the Secretary of State to utilize my signature on file with the Secretary  
+of State driver ’s license and Illinois Identification Card databases and understand that  
+such signature will be used on this online notary public application for appointment and  
+commission as a notary public as if I had signed this form personally."  
+     (f) Immediately upon receiving a completed online notary public application, the  
+online system shall send by electronic mail a confirmation notice that the application has  
+been received. Upon completion of the procedure outlined in subsection (c) of this  
+Section, the online notary public application system shall send by electronic mail a notice  
+informing the applicant of whether the following information has been matched with the  
+Secretary of State driver’s license and Illinois Identification Card databases:  
+     (1) that the applicant has an authentic Illinois driver ’s license or Illinois Identification  
+Card issued by the Secretary of State and that the driver ’s license or Illinois Identification  
+Card number provided by the applicant matches the driver ’s license or Illinois  
+Identification Card number for that person on file with the Secretary of State;  
+     (2) that the date of issuance of the Illinois driver ’s license or Illinois Identification  
+Card listed on the application matches the date of issuance of that license or card for that  
+person on file with the Secretary of State;  
+     (3) that the date of birth provided by the applicant matches the date of birth for that  
+person on file with the Secretary of State; and  
+     (4) that the residence address provided by the applicant matches the residence address  
+for that person on file with the Secretary of State.  
+     (g) If the information provided by the applicant matches all of the criteria identified in  
+subsection (f) of this Section, the online notary public application system shall retrieve  
+from the Secretary of State’s database files an electronic copy of the applicant’s signature  
+from his or her Illinois driver ’s license or Illinois Identification Card and such signature  
+shall be deemed to be the applicant’s signature on his or her online notary public  
+application.   
+  
+5 ILCS 312/2-103. Appointment Fee.  
+     Every applicant for appointment and commission as a notary public shall pay to the  
+Secretary of State a fee of $10.  
+       
+5 ILCS 312/2-104. Oath.  
+     (a) Every applicant for appointment and commission as a notary public shall take the  
+following oath:  
+     “I, (name of applicant), solemnly affirm, under the penalty of perjury, that the  
+     answers to all questions in this application are true, complete, and correct; that I  
+     have carefully read the notary law of this State; and that, if appointed and  
+     commissioned as a notary public, I will perform faithfully, to the best of my  
+     ability, all notarial acts in accordance with the law.”.  
+     (b) In the event that the applicant completes a paper application for appointment and  
+commission as a notary public, he or she shall take the oath in the presence of a person  
+qualified to administer an oath in this State. The printed oath shall be followed by the  
+signature of the applicant and notarized as follows:  
+“                                  (Signature of applicant)  
+Subscribed and affirmed before me on (insert date).  
+
+Revised  1/ 1/2020                                       -3-  
+                                                            
+
+----------------------- Page 4-----------------------
+
+                                  (Official signature and official seal of notary)”.  
+     (c) In the event that the applicant completes an online application for appointment  
+and commission as a notary public, he or she shall affirm the oath electronically. An  
+electronic affirmation of the oath in the online notary public application system shall have  
+the same force and effect as an oath sworn and affirmed in person.  
+  
+5 ILCS 312/2-105. Bond.  
+     Every application for appointment and commission as a notary public shall be  
+accompanied by an executed bond commencing on the date of the appointment with a  
+term of 4 years, in the sum of $5,000, with, as surety thereon, a company qualified to  
+write surety bonds in this State. The bond shall be conditioned upon the faithful  
+performance of all notarial acts in accordance with this Act. The Secretary of State may  
+prescribe an official bond form.  
+       
+5 ILCS 312/2-106. Appointment Recorded by County Clerk.  
+     The appointment of the applicant as a notary public is complete when the commission  
+is recorded with the county clerk.  
+     The Secretary of State shall forward the applicant ’s commission to the county clerk of  
+the county in which the applicant resides or, if the applicant is a resident of a state  
+bordering Illinois, the county in Illinois in which the applicant ’s principal place of work  
+or principal place of business is located. Upon receipt thereof, the county clerk shall  
+notify the applicant of the action taken by the Secretary of State, and the applicant shall  
+either appear at the county clerk’s office to record the same and receive the commission  
+or request by mail to have the commission sent to the applicant with a specimen signature  
+of the applicant attached to the request. The applicant shall have a record of the  
+appointment, and the time when the commission will expire, entered in the records of the  
+office of the county clerk. When the applicant appears before the county clerk, the  
+applicant shall pay a fee of $5, at which time the county clerk shall then deliver the  
+commission to the applicant.   
+     If the appointment is completed by mail, the applicant shall pay the county clerk a fee  
+of $10.00, which shall be submitted with the request to the county clerk. The county clerk  
+shall then record the appointment and send the commission by mail to the applicant.   
+     If an applicant does not respond to the notification by the county clerk within 30 days,  
+the county clerk shall again notify the applicant that the county clerk has received the  
+applicant’s notary public commission issued by the Secretary of State. The second notice  
+shall be in substantially the following form:   
+          “The records of this office indicate that you have not picked up your notary  
+     public commission from the Office of the County Clerk.  
+          The Illinois Notary Public Law requires you to appear in person in the clerk ’s  
+     office, record your commission, and pay a fee of $5.00 to the county clerk or  
+     request that your commission be mailed to you. This request must be  
+     accompanied by a specimen of your signature and a $10.00 fee payable to the  
+     county clerk.  
+          Your appointment as a notary is not complete until the commission is recorded  
+     with the county clerk. Furthermore, if you do not make arrangements with the  
+     clerk for recording and delivery of your commission within 30 days from the date  
+     of this letter, the county clerk will return your commission to the Secretary of  
+     State. Your commission will be cancelled and your name will be removed from  
+
+Revised  1/ 1/2020                                      -4-  
+                                                           
+
+----------------------- Page 5-----------------------
+
+     the list of notaries in the State of Illinois.  
+          I should also like to remind you that any person who attests to any document  
+     as a notary and is not a notary in good standing with the Office of the Secretary of  
+     State is guilty of official misconduct and may be subject to a fine or  
+     imprisonment”.  
+     The Secretary of State shall cancel the appointment of all notaries whose  
+commissions are returned to his office by the county clerks. No application fee will be  
+refunded and no bonding company is required to issue a refund when an appointment is  
+cancelled.  
+  
+5 ILCS 312/2-107. Notary public remittance agent.  
+     (a) Every company, corporation, association, organization, or person that remits  
+notary public applications to the Secretary of State on behalf of applicants for  
+appointment and commission as a notary public, for compensation or otherwise, shall  
+comply with standards to qualify for licensure as a notary public remittance agent.  
+     (b) The standards to qualify for licensure as a notary public remittance agent shall  
+include, but not be limited to, the following:  
+     (1) the applicant has not been the subject of any administrative citation, criminal  
+complaint, or civil action arising from his or her duties as a notary public remittance  
+agent;  
+     (2) the agent holds a surety bond in the amount of $20,000 for the purposes of acting  
+as a remittance agent; and  
+     (3) the agent complies with all requirements set forth by the Secretary of State for the  
+submission of the notary public applications.  
+     (c) The provisions of this Section do not apply to units of local government.  
+                                                            
+                                                 ARTICLE III  
+                                      DUTIES- FEES-AUTHORITY  
+       
+5 ILCS 312/3-101. Official Seal.  
+      (a) Each notary public shall, upon receiving the commission from the county clerk,  
+obtain an official rubber stamp seal with which the notary shall authenticate his official  
+acts. The rubber stamp seal shall contain the following information:  
+     (1)  the words “Official Seal”;  
+     (2)  the notary’s official name;  
+     (3)  the words “Notary Public”, “State of Illinois”, and “My commission expires ____  
+(commission expiration date)”; and  
+     (4)  a serrated or milled edge border in a rectangular form not more than one inch in  
+height by two and one-half inches in length surrounding the information.  
+     (b)  (blank)  
+  
+5 ILCS 312/3-102. Notarial Record; Residential Real Property Transactions.   
+     (a)-(i) no longer apply as of July 1, 2018.  
+     (j) In the event there is a breach in the security of a Notarial Record maintained  
+pursuant to subsections (d) and (e) by the Recorder of Deeds of Cook County, Illinois, the  
+Recorder shall notify the person identified as the “signer” in the Notarial Record at the  
+signer ’s residential street address set forth in the Notarial Record. “Breach” shall mean  
+unauthorized acquisition of the fingerprint data contained in the Notarial Record that  
+
+Revised  1/ 1/2020                                       -5-  
+                                                            
+
+----------------------- Page 6-----------------------
+
+compromises the security, confidentiality, or integrity of the fingerprint data maintained  
+by the Recorder. The notification shall be in writing and made in the most expedient time  
+possible and without unreasonable delay, consistent with any measures necessary to  
+determine the scope of the breach and restore the reasonable security, confidentiality, and  
+integrity of the Recorder ’s data system.  
+     (k) Subsections (a) through (i) shall not apply on and after July 1, 2018.  
+  
+5 ILCS 312/3-103. Notice.  
+     (a) Every notary public who is not an attorney or an accredited immigration  
+representative who advertises the services of a notary public in a language other than  
+English, whether by radio, television, signs, pamphlets, newspapers, or other written  
+communication, with the exception of a single desk plaque, shall include in the  
+document, advertisement, stationery, letterhead, business card, or other comparable  
+written material the following: notice in English and the language in which the written  
+communication appears. This notice shall be of a conspicuous size, if in writing, and shall  
+state: “I AM NOT AN ATTORNEY LICENSED TO PRACTICE LAW IN ILLINOIS. I  
+AM NOT ALLOWED TO DRAFT LEGAL DOCUMENTS OR RECORDS, NOR MAY  
+I GIVE LEGAL ADVICE ON ANY MATTER, INCLUDING, BUT NOT LIMITED TO,  
+MATTERS OF IMMIGRATION, OR ACCEPT OR CHARGE FEES FOR THE  
+PERFORMANCE OF THOSE ACTIVITIES”. If such advertisement is by radio or  
+television, the statement may be modified but must include substantially the same  
+message.  
+     A notary public shall not, in any document, advertisement, stationery, letterhead,  
+business card, or other comparable written material describing the role of the notary  
+public, literally translate from English into another language terms or titles including, but  
+not limited to, notary public, notary, licensed, attorney, lawyer, or any other term that  
+implies the person is an attorney. To illustrate, the word “notario” is prohibited under this  
+provision.  
+     Failure to follow the procedures in this Section shall result in a fine of $1,500 for  
+each written violation. The second violation shall result in permanent revocation of the  
+commission of notary public. Violations shall not preempt or preclude additional  
+appropriate civil or criminal penalties.  
+     (b) All notaries public required to comply with the provisions of subsection (a) shall  
+prominently post at their place of business as recorded with the Secretary of State  
+pursuant to Section 2-102 of this Act a schedule of fees established by law which a notary  
+public may charge. The fee schedule shall be written in English and in the non-English  
+language in which notary services were solicited and shall contain the disavowal of legal  
+representation required above in subsection (a), unless such notice of disavowal is  
+already prominently posted.  
+     (c) No notary public, agency or any other person who is not an attorney shall  
+represent, hold themselves out or advertise that they are experts on immigration matters  
+or provide any other assistance that requires legal analysis, legal judgment, or  
+interpretation of the law unless they are a designated entity as defined pursuant to Section  
+245a.1 of Part 245a of the Code of Federal Regulations (8 CFR 245a.1) or an entity  
+accredited by the Board of Immigration Appeals.  
+     (c-5) In addition to the notice required under subsection (a), every notary public who  
+is subject to subsection (a) shall, prior to rendering notary services, provide any person  
+seeking notary services with a written acknowledgment that substantially states, in  
+
+Revised  1/ 1/2020                                    -6-  
+                                                         
+
+----------------------- Page 7-----------------------
+
+English and the language used in the advertisement for notary services the following: "I  
+AM NOT AN ATTORNEY LICENSED TO PRACTICE LAW IN ILLINOIS. I AM NOT  
+ALLOWED TO DRAFT LEGAL DOCUMENTS OR RECORDS, NOR MAY I GIVE  
+LEGAL ADVICE ON ANY MATTER OR ACCEPT OR CHARGE FEES FOR THE  
+PERFORMANCE OF THOSE ACTIVITIES". The Office of the Secretary of State shall  
+translate this acknowledgement into Spanish and any other language the Secretary of  
+State may deem necessary to achieve the requirements of this subsection (c-5), and shall  
+make the translations available on the website of the Secretary of State. This  
+acknowledgment shall be signed by the recipient of notary services before notary services  
+are rendered, and the notary shall retain copies of all signed acknowledgments throughout  
+their present commission and for 2 years thereafter. Notaries shall provide recipients of  
+notary services with a copy of their signed acknowledgment at the time services are  
+rendered. This provision shall not apply to notary services related to documents prepared  
+or produced in accordance with the Illinois Election Code.  
+     (d) Any person who aids, abets or otherwise induces another person to give false  
+information concerning immigration status shall be guilty of a Class A misdemeanor for a  
+first offense and a Class 3 felony for a second or subsequent offense committed within 5  
+years of a previous conviction for the same offense.  
+Any notary public who violates the provisions of this Section shall be guilty of official  
+misconduct and subject to fine or imprisonment.  
+     Nothing in this Section shall preclude any consumer of notary public services from  
+pursuing other civil remedies available under the law.  
+     (e) No notary public who is not an attorney or an accredited representative shall  
+accept payment in exchange for providing legal advice or any other assistance that  
+requires legal analysis, legal judgment, or interpretation of the law.  
+     (f) Violation of subsection (e) is a business offense punishable by a fine of 3 times the  
+amount received for services, or $1,001 minimum, and restitution of the amount paid to  
+the consumer. Nothing in this Section shall be construed to preempt nor preclude  
+additional appropriate civil remedies or criminal charges available under law.  
+     (g) If a notary public of this State is convicted of 2 or more business offenses  
+involving a violation of this Act within a 12-month period while commissioned, or of 3 or  
+more business offenses involving a violation of this Act within a 5-year period regardless  
+of being commissioned, the Secretary shall automatically revoke the notary public  
+commission of that person on the date that the person’s most recent business offense  
+conviction is entered as a final judgment.  
+  
+5 ILCS 312/3-104. Maximum Fee.  
+     (a) Except as provided in subsection (b) of this Section, the maximum fee in this State  
+is $1.00 for any notarial act performed and, until July 1, 2018, up to $25 for any notarial  
+act performed pursuant to Section 3-102.  
+     (b) Fees for a notary public, agency, or any other person who is not an attorney or an  
+accredited representative filling out immigration forms shall be limited to the following:  
+     (1) $10 per form completion;  
+     (2) $10 per page for the translation of a non-English language into English where  
+such translation is required for immigration forms;  
+     (3) $1 for notarizing;  
+     (4) $3 to execute any procedures necessary to obtain a document required to complete  
+immigration forms; and  
+
+Revised  1/ 1/2020                                    -7-  
+                                                         
+
+----------------------- Page 8-----------------------
+
+     (5) A maximum of $75 for one complete application.  
+     Fees authorized under this subsection shall not include application fees required to be  
+submitted with immigration applications.  
+     Any person who violates the provisions of this subsection shall be guilty of a Class A  
+misdemeanor for a first offense and a Class 3 felony for a second or subsequent offense  
+committed within 5 years of a previous conviction for the same offense.  
+     (c) Upon his own information or upon complaint of any person, the Attorney General  
+or any State’s Attorney, or their designee, may maintain an action for injunctive relief in  
+the court against any notary public or any other person who violates the provisions of  
+subsection (b) of this Section. These remedies are in addition to, and not in substitution  
+for, other available remedies.  
+     If the Attorney General or any State ’s Attorney fails to bring an action as provided  
+pursuant to this subsection within 90 days of receipt of a complaint, any person may file a  
+civil action to enforce the provisions of this subsection and maintain an action for  
+injunctive relief.  
+     (d) All notaries public must provide receipts and keep records for fees accepted for  
+services provided. Failure to provide receipts and keep records that can be presented as  
+evidence of no wrongdoing shall be construed as a presumptive admission of allegations  
+raised in complaints against the notary for violations related to accepting prohibited fees.  
+  
+5 ILCS 312/3-105. Authority.  
+     A notary public shall have authority to perform notarial acts throughout the State so  
+long as the notary resides in the same county in which the notary was commissioned or, if  
+the notary is a resident of a state bordering Illinois, so long as the notary’s principal place  
+of work or principal place of business is in the same county in Illinois in which the notary  
+was commissioned.  
+  
+5 ILCS 312/3-106. Certificate of Authority.  
+     Upon the receipt of a written request, the notarized document, and a fee of $2 payable  
+to the Secretary of State or County Clerk, the Office of the Secretary of State or County  
+Clerk shall provide a certificate of authority in substantially the following form:  
+     I ............ (Secretary of State or ......... County Clerk) of the State of Illinois, which  
+office is an office of record having a seal, certify that ......... (notary’s name), by whom the  
+foregoing or annexed document was notarized, was, on (insert date), appointed and  
+commissioned a notary public in and for the State of Illinois and that as such, full faith  
+and credit is and ought to be given to this notary’s official attestations. In testimony  
+whereof, I have affixed my signature and the seal of this office on (insert date).  
+(Secretary of State or ......... County Clerk).  
+                                                            
+                                                 ARTICLE IV  
+                        CHANGE OF NAME OR MOVE FROM COUNTY  
+       
+5 ILCS 312/4-101. Change of Name or Move from County.  
+     When any notary public legally changes his or her name, changes his or her business  
+address without notifying the Index Department of the Secretary of State in writing  
+within 30 days thereof, or, if the notary public is a resident of a state bordering Illinois,  
+no longer maintains a principal place of work or principal place of business in the same  
+county in Illinois in which he or she was commissioned, the commission of that notary  
+
+Revised  1/ 1/2020                                       -8-  
+                                                            
+
+----------------------- Page 9-----------------------
+
+ceases to be in effect. When the commission of a notary public ceases to be in effect, his  
+or her notarial seal shall be surrendered to the Secretary of State, and his or her certificate  
+of notarial commission shall be destroyed. These individuals who desire to again become  
+a notary public must file a new application, bond, and oath with the Secretary of State.  
+
+                                                           
+                                                 ARTICLE V  
+                            REAPPOINTMENT AS A NOTARY PUBLIC  
+                                                              
+ 5 ILCS 312/5-101. Reappointment.  
+     No person is automatically reappointed as a notary public. At least 60 days prior to  
+the expiration of a commission the Secretary of State shall mail notice of the expiration  
+date to the holder of a commission. Every notary public who is an applicant for  
+reappointment shall comply with the provisions of Article II of this Act.  
+  
+5 ILCS 312/5-102. Solicitation to Purchase Bond.  
+     No person shall solicit any notary public and offer to provide a surety bond more than  
+60 days in advance of the expiration date of the notary public’s commission.  
+Nor shall any person solicit any applicant for a commission or reappointment thereof and  
+offer to provide a surety bond for the notary commission unless any such solicitation  
+specifically sets forth in bold face type not less than 1/4 inch in height the following:  
+“WE ARE NOT ASSOCIATED WITH ANY STATE OR LOCAL GOVERNMENTAL  
+AGENCY”.  
+     Whenever it shall appear to the Secretary of State that any person is engaged or is  
+about to engage in any acts or practices which constitute or will constitute a violation of  
+the provisions of this Section, the Secretary of State may, in his discretion, through the  
+Attorney General, apply for an injunction, and, upon a proper showing, any circuit court  
+shall have power to issue a permanent or temporary injunction or restraining order  
+without bond to enforce the provisions of this Act, and either party to such suit shall have  
+the right to prosecute an appeal from the order or judgment of the court.  
+     Any person, association, corporation, or others who violate the provisions of this  
+Section shall be guilty of a business offense and punishable by a fine of not less than  
+$500 for each offense.  
+  
+                                                ARTICLE VI  
+                                   NOTARIAL ACTS AND FORMS  
+       
+5 ILCS 312/6-101. Definitions.  
+     (a) “Notarial act” means any act that a notary public of this State is authorized to  
+perform and includes taking an acknowledgment, administering an oath or affirmation,  
+taking a verification upon oath or affirmation, and witnessing or attesting a signature.  
+     (b) “Acknowledgment” means a declaration by a person that the person has executed  
+an instrument for the purposes stated therein and, if the instrument is executed in a  
+representative capacity, that the person signed the instrument with proper authority and  
+executed it as the act of the person or entity represented and identified therein.  
+     (c) “Verification upon oath or affirmation” means a declaration that a statement is true  
+made by a person upon oath or affirmation.  
+     (d) “In a representative capacity” means:  
+     (1) for and on behalf of a corporation, partnership, trust, or other entity, as an  
+
+Revised  1/ 1/2020                                      -9-  
+                                                           
+
+----------------------- Page 10-----------------------
+
+authorized officer, agent, partner, trustee, or other representative;  
+     (2) as a public officer, personal representative, guardian, or other representative, in  
+the capacity recited in the instrument;  
+     (3) as an attorney in fact for a principal; or  
+     (4) in any other capacity as an authorized representative of another.  
+  
+5 ILCS 312/6-102. Notarial Acts.  
+     (a)  In taking an acknowledgment, the notary public must determine, either from  
+personal knowledge or from satisfactory evidence, that the person appearing before the  
+notary and making the acknowledgment is the person whose true signature is on the  
+instrument.  
+     (b)  In taking a verification upon oath or affirmation, the notary public must  
+determine, either from personal knowledge or from satisfactory evidence, that the person  
+appearing before the notary and making the verification is the person whose true  
+signature is on the statement verified.  
+     (c)  In witnessing or attesting a signature, the notary public must determine, either  
+from personal knowledge or from satisfactory evidence, that the signature is that of the  
+person appearing before the notary and named therein.  
+     (d)  A notary public has satisfactory evidence that a person is the person whose true  
+signature is on a document if that person:  
+     (1)  is personally known to the notary;  
+     (2)  is identified upon the oath or affirmation of a credible witness personally known  
+to the notary; or  
+     (3)  is identified on the basis of identification documents. Identification documents are  
+documents that are valid at the time of the notarial act, issued by a state agency, federal  
+government agency, or consulate, and bearing the photographic image of the individual ’s  
+face and signature of the individual.  
+  
+5 ILCS 312/6-103. Certificate of Notarial Acts.  
+     (a)  A notarial act must be evidenced by a certificate signed and dated by the notary  
+public. The certificate must include identification of the jurisdiction in which the notarial  
+act is performed and the official seal of office.  
+     (b)  A certificate of a notarial act is sufficient if it meets the requirements of  
+subsection (a) and it:  
+     (1)  is in the short form set forth in Section 6-105;  
+     (2)  is in a form otherwise prescribed by the law of this State; or  
+     (3)  sets forth the actions of the notary public and those are sufficient to meet the  
+requirements of the designated notarial act.  
+  
+5 ILCS 312/6-104. Acts Prohibited.  
+     (a) A notary public shall not use any name or initial in signing certificates other than  
+that by which the notary was commissioned.  
+     (b) A notary public shall not acknowledge any instrument in which the notary’s name  
+appears as a party to the transaction.  
+     (c) A notary public shall not affix his signature to a blank form of affidavit or  
+certificate of acknowledgment and deliver that form to another person with intent that it  
+be used as an affidavit or acknowledgment.  
+     (d) A notary public shall not take the acknowledgment of or administer an oath to any  
+
+Revised  1/ 1/2020                                      -10-  
+                                                            
+
+----------------------- Page 11-----------------------
+
+person whom the notary actually knows to have been adjudged mentally ill by a court of  
+competent jurisdiction and who has not been restored to mental health as a matter of  
+record.  
+     (e) A notary public shall not take the acknowledgment of any person who is blind  
+until the notary has read the instrument to such person.  
+     (f) A notary public shall not take the acknowledgment of any person who does not  
+speak or understand the English language, unless the nature and effect of the instrument  
+to be notarized is translated into a language which the person does understand.  
+     (g) A notary public shall not change anything in a written instrument after it has been  
+signed by anyone.  
+     (h) No notary public shall be authorized to prepare any legal instrument, or fill in the  
+blanks of an instrument, other than a notary certificate; however, this prohibition shall not  
+prohibit an attorney, who is also a notary public, from performing notarial acts for any  
+document prepared by that attorney.  
+     (i) If a notary public accepts or receives any money from any one to whom an oath  
+has been administered or on behalf of whom an acknowledgment has been taken for the  
+purpose of transmitting or forwarding such money to another and willfully fails to  
+transmit or forward such money promptly, the notary is personally liable for any loss  
+sustained because of such failure. The person or persons damaged by such failure may  
+bring an action to recover damages, together with interest and reasonable attorney fees,  
+against such notary public or his bondsmen.  
+     (j) A notary public shall not perform any notarial act when his or her commission is  
+suspended or revoked, nor shall he or she fail to comply with any term of suspension  
+which may be imposed for violation of this Section.  
+       
+5 ILCS 312/6-105. Short Forms.  
+     The following short form certificates of notarial acts are sufficient for the purposes  
+indicated.  
+     (a) For an acknowledgment in an individual capacity:  
+       
+     State of ________________  
+     County of _______________  
+       
+     This instrument was acknowledged before me on _________ (date) by  
+_________________________(name/s of person/s).  
+       
+     (Seal)                               ____________________________   
+                                         (Signature of Notary Public)  
+     (b) For an acknowledgment in a representative capacity:  
+       
+     State of ________________  
+     County of _______________  
+       
+     This instrument was acknowledged before me on _________ (date) by  
+_____________________________ (name/s of person/s) as ____________________  
+(type of authority, e.g., officer, trustee, etc.) of _________________________(name of  
+party on behalf of whom instrument was executed).  
+       
+
+Revised  1/ 1/2020                                        -11-  
+                                                              
+
+----------------------- Page 12-----------------------
+
+     (Seal)                                ____________________________  
+                                             (Signature of Notary Public)  
+     (c) For a verification upon oath or affirmation:  
+       
+     State of ________________  
+     County of _______________  
+       
+     Signed and sworn (or affirmed) to before me on ___________ (date) by   
+________________________ (name/s of person/s making statement).  
+       
+     (Seal)                                ____________________________  
+                                           (Signature of Notary Public)  
+     (d) For witnessing or attesting a signature:  
+       
+     State of ________________  
+     County of _______________  
+       
+     Signed or attested before me on ________________________ (date) by  
+_________________________ (name/s of person/s).  
+       
+     (Seal)                                ____________________________  
+                                           (Signature of Notary Public)  
+                                                                
+                                                   ARTICLE VII  
+                                      LIABILITY AND REVOCATION  
+       
+5 ILCS 312/7-101. Liability of Notary and Surety.  
+     A notary public and the surety on the notary’s bond are liable to the persons involved  
+for all damages caused by the notary’s official misconduct. Upon the filing of any claim  
+against a notary public, the entity that has issued the bond for the notary shall notify the  
+Secretary of State of whether payment was made and the circumstances which led to the  
+claim.  
+       
+5 ILCS 312/7-102. Liability of Employer of Notary.  
+     The employer of a notary public is also liable to the persons involved for all damages  
+caused by the notary’s official misconduct, if:  
+     (a) the notary public was acting within the scope of the notary’s employment at the  
+time the notary engaged in the official misconduct; and  
+     (b) the employer consented to the notary public’s official misconduct.  
+       
+5 ILCS 312/7-103. Cause of Damages.  
+     It is not essential to a recovery of damages that a notary’s official misconduct be the  
+only cause of the damages.  
+       
+5 ILCS 312/7-104. Official Misconduct Defined.  
+     The term “official misconduct” generally means the wrongful exercise of a power or  
+the wrongful performance of a duty and is fully defined in Section 33-3 of the Criminal  
+Code of 2012. The term “wrongful” as used in the definition of official misconduct  
+
+Revised  1/ 1/2020                                          -12-  
+                                                                
+
+----------------------- Page 13-----------------------
+
+means unauthorized, unlawful, abusive, negligent, reckless, or injurious.  
+  
+5 ILCS 312/7-105. Official Misconduct.  
+     (a) A notary public who knowingly and willfully commits any official misconduct is  
+guilty of a Class A misdemeanor.  
+     (b) A notary public who recklessly or negligently commits any official misconduct is  
+guilty of a Class B misdemeanor.  
+       
+5 ILCS 312/7-106. Willful Impersonation.  
+     Any person who acts as, or otherwise willfully impersonates, a notary public while  
+not lawfully appointed and commissioned to perform notarial acts is guilty of a Class A  
+misdemeanor.  
+       
+5 ILCS 312/7-107. Wrongful Possession.  
+     Any person who unlawfully possesses a notary’s official seal is guilty of a  
+misdemeanor and punishable upon conviction by a fine not exceeding $1,000.  
+       
+5 ILCS 312/7-108. Reprimand, Suspension, and Revocation of Commission.  
+     (a) The Secretary of State may revoke the commission of any notary public who,  
+during the current term of appointment:  
+     (1) submits an application for commission and appointment as a notary public which  
+contains substantial and material misstatement or omission of fact; or  
+     (2) is convicted of any felony, misdemeanors, including those defined in Part C,  
+Articles 16, 17, 18, 19, and 21, and Part E, Articles 31, 32, and 33 of the Criminal Code  
+of 2012, or official misconduct under this Act.  
+     (b) Whenever the Secretary of State believes that a violation of this Article has  
+occurred, he or she may investigate any such violation. The Secretary may also  
+investigate possible violations of this Article upon a signed written complaint on a form  
+designated by the Secretary.  
+     (c) A notary’s failure to cooperate or respond to an investigation by the Secretary of  
+State is a failure by the notary to fully and faithfully discharge the responsibilities and  
+duties of a notary and shall result in suspension or revocation of the notary’s commission.  
+     (d) All written complaints which on their face appear to establish facts which, if  
+proven true, would constitute an act of misrepresentation or fraud in notarization or on  
+the part of the notary shall be investigated by the Secretary of State to determine whether  
+cause exists to reprimand, suspend, or revoke the commission of the notary.  
+     (e) The Secretary of State may deliver a written official warning and reprimand to a  
+notary, or may revoke or suspend a notary’s commission, for any of the following:  
+     (1) a notary’s official misconduct, as defined under Section 7-104;  
+     (2) any ground for which an application for appointment as a notary may be denied  
+for failure to complete application requirements as provided under Section 2-102;  
+     (3) any prohibited act provided under Section 6-104; or  
+     (4) a violation of any provision of the general statutes.  
+     (f) After investigation and upon a determination by the Secretary of State that one or  
+more prohibited acts has been performed in the notarization of a document, the Secretary  
+shall, after considering the extent of the prohibited act and the degree of culpability of the  
+notary, order one or more of the following courses of action:  
+     (1) issue a letter of warning to the notary, including the Secretary’s findings;  
+
+Revised  1/ 1/2020                                      -13-  
+                                                            
+
+----------------------- Page 14-----------------------
+
+     (2) order suspension of the commission of the notary for a period of time designated  
+by the Secretary;   
+     (3) order revocation of the commission of the notary;  
+     (4) refer the allegations to the appropriate State’s Attorney’s Office or the Attorney  
+General for criminal investigation; or  
+     (5) refer the allegations to the Illinois Attorney Registration and Disciplinary  
+Commission for disciplinary proceedings.  
+     (g) After a notary receives notice from the Secretary of State that his or her  
+commission has been revoked, that notary shall immediately deliver his or her official  
+seal to the Secretary.  
+     (h) A notary whose appointment has been revoked due to a violation of this Act shall  
+not be eligible for a new commission as a notary public in this State for a period of at  
+least 5 years from the date of the final revocation.  
+     (i) A notary may voluntarily resign from appointment by notifying the Secretary of  
+State in writing of his or her intention to do so, and by physically returning his or her  
+stamp to the Secretary. A voluntary resignation shall not stop or preclude any  
+investigation into a notary’s conduct, or prevent further suspension or revocation by the  
+Secretary, who may pursue any such investigation to a conclusion and issue any finding.  
+     (j) Upon a determination by a sworn law enforcement officer that the allegations  
+raised by the complaint are founded, and the notary has received notice of suspension or  
+revocation from the Secretary of State, the notary is entitled to an administrative hearing.  
+     (k) The Secretary of State shall adopt administrative hearing rules applicable to this  
+Section that are consistent with the Illinois Administrative Procedure Act.   
+  
+5 ILCS 312/7-109. Action for Injunction, Unauthorized Practice of Law.  
+     Upon his own information or upon complaint of any person, the Attorney General or  
+any State’s Attorney, or their designee, may maintain an action for injunctive relief in the  
+circuit court against any notary public who renders, offers to render, or holds himself or  
+herself out as rendering any service constituting the unauthorized practice of the law. Any  
+organized bar association in this State may intervene in the action, at any stage of the  
+proceeding, for good cause shown. The action may also be maintained by an organized  
+bar association in this State. These remedies are in addition to, and not in substitution for,  
+other available remedies.  
+       
+                                      CHAPTER 765. PROPERTY  
+       ACT 30. UNIFORM RECOGNITION OF ACKNOWLEDGMENTS ACT   
+                                                               
+765 ILCS 30/1. Short title.   
+     This Act may be cited as the Uniform Recognition of Acknowledgments Act.   
+       
+765 ILCS 30/2. Recognition of notarial acts performed outside this State.   
+     For the purposes of this Act, “notarial acts” means acts which the laws and regulations  
+of this State authorize notaries public of this State to perform, including the administering  
+of oaths and affirmations, taking proof of execution and acknowledgments of instruments,  
+and attesting documents. Notarial acts may be performed outside this State for use in this  
+State with the same effect as if performed by a notary public of this State by the following  
+persons authorized pursuant to the laws and regulations of other governments in addition to  
+any other person authorized by the laws and regulations of this State:   
+
+Revised  1/ 1/2020                                      -14-  
+                                                            
+
+----------------------- Page 15-----------------------
+
+     (1) a notary public authorized to perform notarial acts in the place in which the act is  
+performed;   
+     (2) a judge, clerk, or deputy clerk of any court of record in the place in which the  
+notarial act is performed;   
+     (3) an officer of the foreign service of the United States, a consular agent, or any  
+other person authorized by regulation of the United States Department of State to perform  
+notarial acts in the place in which the act is performed;   
+     (4) a commissioned officer in active service with the Armed Forces of the United  
+States and any other person authorized by regulation of the Armed Forces to perform  
+notarial acts if the notarial act is performed for one of the following or his dependents: a  
+merchant seaman of the United States, a member of the Armed Forces of the United  
+States, or any other person serving with or accompanying the Armed Forces of the United  
+States; or   
+     (5) any other person authorized to perform notarial acts in the place in which the act  
+is performed.   
+  
+765 ILCS 30/3. Authentication of authority of officer.   
+     (a) If the notarial act is performed by any of the persons described in paragraphs 1 to  
+4, inclusive of Section 2, other than a person authorized to perform notarial acts by the  
+laws or regulations of a foreign country, the signature, rank, or title and serial number, if  
+any, of the person are sufficient proof of the authority of a holder of that rank or title to  
+perform the act. Further proof of his authority is not required.   
+     (b) If the notarial act is performed by a person authorized by the laws or regulations  
+of a foreign country to perform the act, there is sufficient proof of the authority of that  
+person to act if:   
+     (1) either a foreign service officer of the United States resident in the country in  
+which the act is performed or a diplomatic or consular officer of the foreign country  
+resident in the United States certifies that a person holding that office is authorized to  
+perform the act;   
+     (2) the official seal of the person performing the notarial act is affixed to the  
+document; or   
+     (3) the title and indication of authority to perform notarial acts of the person appears  
+either in a digest of foreign law or in a list customarily used as a source of such  
+information.   
+     (c) If the notarial act is performed by a person other than one described in subsections  
+(a) and (b), there is sufficient proof of the authority of that person to act if the clerk of a  
+court of record in the place in which the notarial act is performed certifies to the official  
+character of that person and to his authority to perform the notarial act.   
+     (d) The signature and title of the person performing the act are prima facie evidence  
+that he is a person with the designated title and that the signature is genuine.   
+       
+765 ILCS 30/4. Certificate of person taking acknowledgment.   
+     The person taking an acknowledgment shall certify that:   
+     (1) the person acknowledging appeared before him and acknowledged he executed  
+the instrument; and   
+     (2) the person acknowledging was known to the person taking the acknowledgment or  
+that the person taking the acknowledgment had satisfactory evidence that the person  
+acknowledging was the person described in and who executed the instrument.   
+
+Revised  1/ 1/2020                                      -15-  
+                                                            
+
+----------------------- Page 16-----------------------
+
+  
+765 ILCS 30/5. Recognition of certificate of acknowledgment.   
+     The form of a certificate of acknowledgment used by a person whose authority is  
+recognized under Section 2 shall be accepted in this State if:   
+     (1) the certificate is in a form prescribed by the laws or regulations of this State;   
+     (2) the certificate is in a form prescribed by the laws or regulations applicable in the  
+place in which the acknowledgment is taken; or   
+     (3) the certificate contains the words “acknowledged before me” or their substantial  
+equivalent.   
+  
+765 ILCS 30/6. Certificate of acknowledgment.   
+     The words “acknowledged before me” means   
+     (1) that the person acknowledging appeared before the person taking the  
+acknowledgment,   
+     (2) that he acknowledged he executed the instrument,   
+     (3) that, in the case of:   
+     (i) a natural person, he executed the instrument for the purposes therein stated;   
+     (ii) a corporation, the officer or agent acknowledged he held the position or title set  
+forth in the instrument and certificate, he signed the instrument on behalf of the  
+corporation by proper authority, and the instrument was the act of the corporation for the  
+purpose therein stated;   
+     (iii) a partnership, the partner or agent acknowledged he signed the instrument on  
+behalf of the partnership by proper authority and he executed the instrument as the act of  
+the partnership for the purposes therein stated;   
+     (iv) a person acknowledging as principal by an attorney in fact, he executed the  
+instrument by proper authority as the act of the principal for the purposes therein stated;   
+     (v) a person acknowledging as a public officer, trustee, administrator, guardian, or  
+other representative, he signed the instrument by proper authority and he executed the  
+instrument in the capacity and for the purposes therein stated; and   
+     (4) that the person taking the acknowledgment either knew or had satisfactory  
+evidence that the person acknowledging was the person named in the instrument or  
+certificate.   
+       
+ 765 ILCS 30/7. Short forms of acknowledgment.   
+     (a) The forms of acknowledgment set forth in this Section may be used and are  
+sufficient for their respective purposes under any law of this State, whether executed in  
+this State or any other State. The forms shall be known as “Statutory Short Forms of  
+Acknowledgment” and may be referred to by that name. The authorization of the forms in  
+this Section does not preclude the use of other forms.   
+     (1) For an individual acting in his own right:   
+       
+     State of ....   
+     County of ....   
+       
+     The foregoing instrument was acknowledged before me this (date) by (name of  
+person acknowledged.)   
+       
+     (Signature of person taking acknowledgment)   
+
+Revised  1/ 1/2020                                        -16-  
+                                                              
+
+----------------------- Page 17-----------------------
+
+      (Title or rank)   
+      (Serial number, if any)   
+        
+      (2) For a corporation:   
+        
+      State of ....   
+      County of ....   
+        
+      The foregoing instrument was acknowledged before me this (date) by (name of  
+officer or agent, title of officer or agent) of (name of corporation acknowledging) a (state  
+or place of incorporation) corporation, on behalf of the corporation.   
+      (Signature of person taking acknowledgment)   
+      (Title or rank)   
+      (Serial number, if any)   
+        
+      (3) For a partnership:   
+        
+      State of ....   
+      County of ....   
+        
+      The foregoing instrument was acknowledged before me this (date) by (name of  
+acknowledging partner or agent), partner (or agent) on behalf of (name of partnership), a  
+partnership.   
+        
+      (Signature of person taking acknowledgment)   
+      (Title or rank)   
+      (Serial number, if any)   
+        
+      (4) For an individual acting as principal by an attorney in fact:   
+        
+      State of ....   
+      County of ....   
+        
+      The foregoing instrument was acknowledged before me this (date) by (name of  
+attorney in fact) as attorney in fact on behalf of (name of principal).   
+        
+      (Signature of person taking acknowledgment)   
+      (Title or rank)   
+      (Serial number, if any)   
+        
+      (5) By any public officer, trustee, or personal representative:   
+        
+      State of ....   
+      County of ....   
+        
+      The foregoing instrument was acknowledged before me this (date) by (name and title  
+of position).   
+        
+
+Revised  1/ 1/2020                                                -17-  
+                                                                      
+
+----------------------- Page 18-----------------------
+
+     (Signature of person taking acknowledgment)   
+     (Title or rank)   
+     (Serial number, if any)   
+       
+     (b) This amendatory Act of 1981 (P.A. 82-450) is to clarify that any uses of the short  
+form of acknowledgment as herein provided within the State of Illinois prior to the  
+effective date of this amendatory Act have been valid.   
+  
+765 ILCS 30/8. Acknowledgments not affected by this Act.   
+     A notarial act performed prior to the effective date of this Act is not affected by this  
+Act. This Act provides an additional method of proving notarial acts. Nothing in this Act  
+diminishes or invalidates the recognition accorded to notarial acts by other laws or  
+regulations of this State.   
+       
+765 ILCS 30/9. Uniformity of interpretation.   
+     This Act shall be so interpreted as to make uniform the laws of those states which  
+enact it.   
+       
+765 ILCS 30/10. Time of taking effect.   
+     This Act shall take effect on January 1, 1970.   
+       
+     ACT 33. UNIFORM REAL PROPERTY ELECTRONIC RECORDING ACT.  
+  
+765 ILCS 33/3. Validity of electronic documents.   
+     (a) If a law requires, as a condition for recording, that a document be an original, be  
+on paper or another tangible medium, or be in writing, the requirement is satisfied by an  
+electronic document satisfying this Act.   
+     (b) If a law requires, as a condition for recording, that a document be signed, the  
+requirement is satisfied by an electronic signature.   
+     (c) A requirement that a document or a signature associated with a document be  
+notarized, acknowledged, verified, witnessed, or made under oath is satisfied if the  
+electronic signature of the person authorized to perform that act, and all other information  
+required to be included, is attached to or logically associated with the document or  
+signature. A physical or electronic image of a stamp, impression, or seal need not  
+accompany an electronic signature.   
+                                                              
+                           CHAPTER 815. BUSINESS TRANSACTIONS  
+                                     ACT 505. CONSUMER FRAUD   
+                        AND DECEPTIVE BUSINESS PRACTICES ACT  
+                                                                 
+815 ILCS 505/2AA. Immigration services.  
+     (a) “Immigration matter” means any proceeding, filing, or action affecting the  
+nonimmigrant, immigrant or citizenship status of any person that arises under  
+immigration and naturalization law, executive order or presidential proclamation of the  
+United States or any foreign country, or that arises under action of the United States  
+Citizenship and Immigration Services, the United States Department of Labor, or the  
+United States Department of State.  
+     “Immigration assistance service” means any information or action provided or offered  
+
+Revised  1/ 1/2020                                        -18-  
+                                                              
+
+----------------------- Page 19-----------------------
+
+to customers or prospective customers related to immigration matters, excluding legal  
+advice, recommending a specific course of legal action, or providing any other assistance  
+that requires legal analysis, legal judgment, or interpretation of the law.  
+     “Compensation” means money, property, services, promise of payment, or anything  
+else of value.  
+     “Employed by” means that a person is on the payroll of the employer and the  
+employer deducts from the employee’s paycheck social security and withholding taxes,  
+or receives compensation from the employer on a commission basis or as an independent  
+contractor.  
+     “Reasonable costs” means actual costs or, if actual costs cannot be calculated,  
+reasonably estimated costs of such things as photocopying, telephone calls, document  
+requests, and filing fees for immigration forms, and other nominal costs incidental to  
+assistance in an immigration matter.  
+     (a-1) The General Assembly finds and declares that private individuals who assist  
+persons with immigration matters have a significant impact on the ability of their clients  
+to reside and work within the United States and to establish and maintain stable families  
+and business relationships. The General Assembly further finds that that assistance and  
+its impact also have a significant effect on the cultural, social, and economic life of the  
+State of Illinois and thereby substantially affect the public interest. It is the intent of the  
+General Assembly to establish rules of practice and conduct for those individuals to  
+promote honesty and fair dealing with residents and to preserve public confidence.  
+     (a-5) The following persons are exempt from this Section, provided they prove the  
+exemption by a preponderance of the evidence:  
+     (1) An attorney licensed to practice law in any state or territory of the United States,  
+or of any foreign country when authorized by the Illinois Supreme Court, to the extent the  
+attorney renders immigration assistance service in the course of his or her practice as an  
+attorney.  
+     (2) A legal intern, as described by the rules of the Illinois Supreme Court, employed  
+by and under the direct supervision of a licensed attorney and rendering immigration  
+assistance service in the course of the intern’s employment.  
+     (3) A not-for-profit organization recognized by the Board of Immigration Appeals  
+under 8 C.F.R. 292.2(a) and employees of those organizations accredited under 8 C.F.R.  
+292.2(d).  
+     (4) Any organization employing or desiring to employ an alien or nonimmigrant  
+alien, where the organization, its employees or its agents provide advice or assistance in  
+immigration matters to alien or nonimmigrant alien employees or potential employees  
+without compensation from the individuals to whom such advice or assistance is  
+provided.  
+     Nothing in this Section shall regulate any business to the extent that such regulation is  
+prohibited or preempted by State or federal law.  
+     All other persons providing or offering to provide immigration assistance service  
+shall be subject to this Section.  
+     (b) Any person who provides or offers to provide immigration assistance service may  
+perform only the following services:  
+     (1) Completing a government agency form, requested by the customer and  
+appropriate to the customer’s needs, only if the completion of that form does not involve  
+a legal judgment for that particular matter.  
+     (2) Transcribing responses to a government agency form which is related to an  
+
+Revised  1/ 1/2020                                    -19-  
+                                                          
+
+----------------------- Page 20-----------------------
+
+immigration matter, but not advising a customer as to his or her answers on those forms.  
+     (3) Translating information on forms to a customer and translating the customer’s  
+answers to questions posed on those forms.  
+     (4) Securing for the customer supporting documents currently in existence, such as  
+birth and marriage certificates, which may be needed to be submitted with government  
+agency forms.  
+     (5) Translating documents from a foreign language into English.  
+     (6) Notarizing signatures on government agency forms, if the person performing the  
+service is a notary public of the State of Illinois.  
+     (7) Making referrals, without fee, to attorneys who could undertake legal  
+representation for a person in an immigration matter.  
+     (8) Preparing or arranging for the preparation of photographs and fingerprints.  
+     (9) Arranging for the performance of medical testing (including X-rays and AIDS  
+tests) and the obtaining of reports of such test results.  
+     (10) Conducting English language and civics courses.  
+     (11) Other services that the Attorney General determines by rule may be  
+appropriately performed by such persons in light of the purposes of this Section.  
+     Fees for a notary public, agency, or any other person who is not an attorney or an  
+accredited representative filling out immigration forms shall be limited to the maximum  
+fees set forth in subsections (a) and (b) of Section 3-104 of the Notary Public Act (5  
+ILCS 312/3-104). The maximum fee schedule set forth in subsections (a) and (b) of  
+Section 3-104 of the Notary Public Act shall apply to any person that provides or offers  
+to provide immigration assistance service performing the services described therein. The  
+Attorney General may promulgate rules establishing maximum fees that may be charged  
+for any services not described in that subsection. The maximum fees must be reasonable  
+in light of the costs of providing those services and the degree of professional skill  
+required to provide the services.  
+     No person subject to this Act shall charge fees directly or indirectly for referring an  
+individual to an attorney or for any immigration matter not authorized by this Article,  
+provided that a person may charge a fee for notarizing documents as permitted by the  
+Illinois Notary Public Act.  
+     (c) Any person performing such services shall register with the Illinois Attorney  
+General and submit verification of malpractice insurance or of a surety bond.  
+     (d) Except as provided otherwise in this subsection, before providing any assistance  
+in an immigration matter a person shall provide the customer with a written contract that  
+includes the following:  
+     (1) An explanation of the services to be performed.  
+     (2) Identification of all compensation and costs to be charged to the customer for the  
+services to be performed.  
+     (3) A statement that documents submitted in support of an application for  
+nonimmigrant, immigrant, or naturalization status may not be retained by the person for  
+any purpose, including payment of compensation or costs.  
+     This subsection does not apply to a not-for-profit organization that provides advice or  
+assistance in immigration matters to clients without charge beyond a reasonable fee to  
+reimburse the organization ’s or clinic’s reasonable costs relating to providing  
+immigration services to that client.  
+     (e) Any person who provides or offers immigration assistance service and is not  
+exempted from this Section, shall post signs at his or her place of business, setting forth  
+
+Revised  1/ 1/2020                                    -20-  
+                                                         
+
+----------------------- Page 21-----------------------
+
+information in English and in every other language in which the person provides or offers  
+to provide immigration assistance service. Each language shall be on a separate sign.  
+Signs shall be posted in a location where the signs will be visible to customers. Each sign  
+shall be at least 11 inches by 17 inches, and shall contain the following:  
+     (1) The statement “I AM NOT AN ATTORNEY LICENSED TO PRACTICE LAW  
+AND MAY NOT GIVE LEGAL ADVICE OR ACCEPT FEES FOR LEGAL ADVICE.”  
+     (2) The statement “I AM NOT ACCREDITED TO REPRESENT YOU BEFORE  
+THE UNITED STATES IMMIGRATION AND NATURALIZATION SERVICE AND  
+THE IMMIGRATION BOARD OF APPEALS.”  
+     (3) The fee schedule.  
+     (4) The statement that “You may cancel any contract within 3 working days and get  
+your money back for services not performed.”  
+     (5) Additional information the Attorney General may require by rule.  
+     Every person engaged in immigration assistance service who is not an attorney who  
+advertises immigration assistance service in a language other than English, whether by  
+radio, television, signs, pamphlets, newspapers, or other written communication, with the  
+exception of a single desk plaque, shall include in the document, advertisement,  
+stationery, letterhead, business card, or other comparable written material the following  
+notice in English and the language in which the written communication appears. This  
+notice shall be of a conspicuous size, if in writing, and shall state: “I AM NOT AN  
+ATTORNEY LICENSED TO PRACTICE LAW IN ILLINOIS AND MAY NOT GIVE  
+LEGAL ADVICE OR ACCEPT FEES FOR LEGAL ADVICE.” If such advertisement is  
+by radio or television, the statement may be modified but must include substantially the  
+same message.  
+    Any person who provides or offers immigration assistance service and is not  
+exempted from this Section shall not, in any document, advertisement, stationery,  
+letterhead, business card, or other comparable written material, literally translate from  
+English into another language terms or titles including, but not limited to, notary public,  
+notary, licensed, attorney, lawyer, or any other term that implies the person is an attorney.  
+To illustrate, the words “notario” and “poder notarial” are prohibited under this provision.  
+     If not subject to penalties under subsection (a) of Section 3-103 of the Notary Public  
+Act (5 ILCS 312/3-103), violations of this subsection shall result in a fine of $1,000.  
+Violations shall not preempt or preclude additional appropriate civil or criminal penalties.  
+     (f) The written contract shall be in both English and in the language of the customer.  
+     (g) A copy of the contract shall be provided to the customer upon the customer’s  
+execution of the contract.  
+     (h) A customer has the right to rescind a contract within 72 hours after his or her  
+signing of the contract.  
+     (i) Any documents identified in paragraph (3) of subsection (c) shall be returned upon  
+demand of the customer.  
+     (j) No person engaged in providing immigration services who is not exempted under  
+this Section shall do any of the following:  
+     (1) Make any statement that the person can or will obtain special favors from or has  
+special influence with the United States Immigration and Naturalization Service or any  
+other government agency.  
+     (2) Retain any compensation for service not performed.  
+     (2.5) Accept payment in exchange for providing legal advice or any other assistance  
+that requires legal analysis, legal judgment, or interpretation of the law.  
+
+Revised  1/ 1/2020                                  -21-  
+                                                        
+
+----------------------- Page 22-----------------------
+
+     (3) Refuse to return documents supplied by, prepared on behalf of, or paid for by the  
+customer upon the request of the customer. These documents must be returned upon  
+request even if there is a fee dispute between the immigration assistant and the customer.  
+     (4) Represent or advertise, in connection with the provision assistance in immigration  
+matters, other titles of credentials, including but not limited to “notary public” or  
+“immigration consultant,” that could cause a customer to believe that the person  
+possesses special professional skills or is authorized to provide advice on an immigration  
+matter; provided that a notary public appointed by the Illinois Secretary of State may use  
+the term “notary public” if the use is accompanied by the statement that the person is not  
+an attorney; the term “notary public” may not be translated to another language; for  
+example “notario” is prohibited.  
+     (5) Provide legal advice, recommend a specific course of legal action, or provide any  
+other assistance that requires legal analysis, legal judgment, or interpretation of the law.  
+     (6) Make any misrepresentation of false statement, directly or indirectly, to influence,  
+persuade, or induce patronage.  
+     (k) (Blank)  
+     (l) (Blank)  
+     (m) Any person who violates any provision of this Section, or the rules and  
+regulations issued under this Section, shall be guilty of a Class A misdemeanor for a first  
+offense and a Class 3 felony for a second or subsequent offense committed within 5 years  
+of a previous conviction for the same offense.  
+     Upon his own information or upon the complaint of any person, the Attorney General  
+or any State’s Attorney, or a municipality with a population of more than 1,000,000, may  
+maintain an action for injunctive relief and also seek a civil penalty not exceeding  
+$50,000 in the circuit court against any person who violates any provision of this Section.  
+These remedies are in addition to, and not in substitution for, other available remedies.  
+     If the Attorney General or any State’s Attorney or a municipality with a population of  
+more than 1,000,000 fails to bring an action as provided under this Section any person  
+may file a civil action to enforce the provisions of this Article and maintain an action for  
+injunctive relief, for compensatory damages to recover prohibited fees, or for such  
+additional relief as may be appropriate to deter, prevent, or compensate for the violation.  
+In order to deter violations of this Section, courts shall not require a showing of the  
+traditional elements for equitable relief. A prevailing plaintiff may be awarded 3 times  
+the prohibited fees or a minimum of $1,000 in punitive damages, attorney’s fees, and  
+costs of bringing an action under this Section. It is the express intention of the General  
+Assembly that remedies for violation of this Section be cumulative.  
+     (n) No unit of local government, including any home rule unit, shall have the  
+authority to regulate immigration assistance services unless such regulations are at least  
+as stringent as those contained in this amendatory Act of 1992. It is declared to be the law  
+of this State, pursuant to paragraph (i) of Section 6 of Article VII of the Illinois  
+Constitution of 1970, that this amendatory Act of 1992 is a limitation on the authority of  
+a home rule unit to exercise powers concurrently with the State. The limitations of this  
+Section do not apply to a home rule unit that has, prior to the effective date of this  
+amendatory Act, adopted an ordinance regulating immigration assistance services.  
+     (o) This Section is severable under Section 1.31 of the Statute on Statutes.  
+     (p) The Attorney General shall issue rules not inconsistent with this Section for the  
+implementation, administration, and enforcement of this Section. The rules may provide  
+for the following:  
+
+Revised  1/ 1/2020                                    -22-  
+                                                          
+
+----------------------- Page 23-----------------------
+
+      (1) The content, print size, and print style of the signs required under subsection (e).  
+Print sizes and styles may vary from language to language.  
+      (2) Standard forms for use in the administration of this Section.  
+      (3) Any additional requirements deemed necessary.    
+        
+
+Revised  1/ 1/2020                                                     -23-  
+                                                                           

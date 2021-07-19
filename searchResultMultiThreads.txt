@@ -1,0 +1,114 @@
+"Overdose Prevention and Harm Reduction Act.txt" - damage - 0
+"Suicide Prevention, Education, and Treatment Act.txt" - damage - 0
+"Cigarette Health Warning Act.txt" - damage - 0
+"Illinois Gambling Act.txt" - damage - 0
+"Smoke Free Illinois Act.txt" - damage - 0
+"Tattoo and Body Piercing Establishment Registration Act.txt" - damage - 0
+"Illinois notary public Act.txt" - damage - 0
+"Illinois Nuclear Safety Preparedness Act.txt" - damage - 0
+"Video Gaming Act.txt" - damage - 0
+"Right to Try Act.txt" - damage - 0
+"Illinois Human Rights Act.txt" - damage - 2
+"Illinois Marriage and Dissolution of Marriage Act.txt" - damage - 0
+"Liquor Control Act.txt" - damage - 25
+"Cannabis Regulation and Tax Act.txt" - damage - 1
+"Criminal Code 2012.txt" - damage - 88
+"Illinois Vehicle Code.txt" - damage - 176
+"School Code.txt" - damage - 20
+* * * * * The word "damage" is found 312 time(s) in all acts. * * * * *
+
+"Cigarette Health Warning Act.txt" - pain - 0
+"Overdose Prevention and Harm Reduction Act.txt" - pain - 0
+"Suicide Prevention, Education, and Treatment Act.txt" - pain - 0
+"Illinois Nuclear Safety Preparedness Act.txt" - pain - 0
+"Smoke Free Illinois Act.txt" - pain - 0
+"Illinois notary public Act.txt" - pain - 0
+"Illinois Gambling Act.txt" - pain - 0
+"Right to Try Act.txt" - pain - 0
+"Tattoo and Body Piercing Establishment Registration Act.txt" - pain - 0
+"Video Gaming Act.txt" - pain - 0
+"Illinois Human Rights Act.txt" - pain - 0
+"Illinois Marriage and Dissolution of Marriage Act.txt" - pain - 0
+"Cannabis Regulation and Tax Act.txt" - pain - 0
+"Liquor Control Act.txt" - pain - 0
+"Criminal Code 2012.txt" - pain - 7
+"Illinois Vehicle Code.txt" - pain - 2
+"School Code.txt" - pain - 1
+* * * * * The word "pain" is found 10 time(s) in all acts. * * * * *
+
+"Cigarette Health Warning Act.txt" - death - 0
+"Illinois Nuclear Safety Preparedness Act.txt" - death - 0
+"Smoke Free Illinois Act.txt" - death - 3
+"Illinois notary public Act.txt" - death - 0
+"Right to Try Act.txt" - death - 1
+"Overdose Prevention and Harm Reduction Act.txt" - death - 0
+"Tattoo and Body Piercing Establishment Registration Act.txt" - death - 0
+"Suicide Prevention, Education, and Treatment Act.txt" - death - 5
+"Video Gaming Act.txt" - death - 0
+"Illinois Gambling Act.txt" - death - 0
+"Illinois Human Rights Act.txt" - death - 2
+"Illinois Marriage and Dissolution of Marriage Act.txt" - death - 24
+"Cannabis Regulation and Tax Act.txt" - death - 2
+"Liquor Control Act.txt" - death - 11
+"Criminal Code 2012.txt" - death - 208
+"Illinois Vehicle Code.txt" - death - 172
+"School Code.txt" - death - 20
+* * * * * The word "death" is found 448 time(s) in all acts. * * * * *
+
+"Tattoo and Body Piercing Establishment Registration Act.txt" - parent - 0
+"Overdose Prevention and Harm Reduction Act.txt" - parent - 0
+"Right to Try Act.txt" - parent - 1
+"Video Gaming Act.txt" - parent - 3
+"Illinois Nuclear Safety Preparedness Act.txt" - parent - 0
+"Cigarette Health Warning Act.txt" - parent - 0
+"Smoke Free Illinois Act.txt" - parent - 0
+"Suicide Prevention, Education, and Treatment Act.txt" - parent - 0
+"Illinois notary public Act.txt" - parent - 0
+"Illinois Gambling Act.txt" - parent - 16
+"Illinois Human Rights Act.txt" - parent - 4
+"Illinois Marriage and Dissolution of Marriage Act.txt" - parent - 328
+"Cannabis Regulation and Tax Act.txt" - parent - 14
+"Liquor Control Act.txt" - parent - 7
+"Criminal Code 2012.txt" - parent - 128
+"Illinois Vehicle Code.txt" - parent - 30
+"School Code.txt" - parent - 347
+* * * * * The word "parent" is found 878 time(s) in all acts. * * * * *
+
+"Cigarette Health Warning Act.txt" - children - 1
+"Overdose Prevention and Harm Reduction Act.txt" - children - 0
+"Illinois Nuclear Safety Preparedness Act.txt" - children - 0
+"Right to Try Act.txt" - children - 0
+"Illinois notary public Act.txt" - children - 0
+"Video Gaming Act.txt" - children - 0
+"Smoke Free Illinois Act.txt" - children - 1
+"Suicide Prevention, Education, and Treatment Act.txt" - children - 0
+"Illinois Gambling Act.txt" - children - 2
+"Tattoo and Body Piercing Establishment Registration Act.txt" - children - 0
+"Illinois Human Rights Act.txt" - children - 1
+"Illinois Marriage and Dissolution of Marriage Act.txt" - children - 73
+"Cannabis Regulation and Tax Act.txt" - children - 14
+"Liquor Control Act.txt" - children - 6
+"Criminal Code 2012.txt" - children - 59
+"Illinois Vehicle Code.txt" - children - 74
+"School Code.txt" - children - 662
+* * * * * The word "children" is found 893 time(s) in all acts. * * * * *
+
+"Cigarette Health Warning Act.txt" - influence - 0
+"Right to Try Act.txt" - influence - 0
+"Overdose Prevention and Harm Reduction Act.txt" - influence - 0
+"Illinois Nuclear Safety Preparedness Act.txt" - influence - 0
+"Smoke Free Illinois Act.txt" - influence - 0
+"Suicide Prevention, Education, and Treatment Act.txt" - influence - 0
+"Illinois notary public Act.txt" - influence - 2
+"Tattoo and Body Piercing Establishment Registration Act.txt" - influence - 0
+"Video Gaming Act.txt" - influence - 2
+"Illinois Gambling Act.txt" - influence - 6
+"Illinois Human Rights Act.txt" - influence - 2
+"Illinois Marriage and Dissolution of Marriage Act.txt" - influence - 1
+"Cannabis Regulation and Tax Act.txt" - influence - 15
+"Liquor Control Act.txt" - influence - 1
+"Criminal Code 2012.txt" - influence - 39
+"Illinois Vehicle Code.txt" - influence - 87
+"School Code.txt" - influence - 4
+* * * * * The word "influence" is found 159 time(s) in all acts. * * * * *
+

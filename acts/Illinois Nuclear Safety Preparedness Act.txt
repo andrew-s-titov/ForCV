@@ -1,0 +1,133 @@
+NUCLEAR SAFETY
+(420 ILCS 5/) Illinois Nuclear Safety Preparedness Act.
+    (420 ILCS 5/1) (from Ch. 111 1/2, par. 4301)
+    Sec. 1. This Act shall be known and may be cited as the "Illinois Nuclear Safety Preparedness Act".
+(Source: P.A. 81-577.)
+
+    (420 ILCS 5/2) (from Ch. 111 1/2, par. 4302)
+    Sec. 2. It is declared to be the policy of the General Assembly to protect the people of the State of Illinois against adverse health effects resulting from radiological accidents by establishing a mechanism for emergency preparedness to mitigate the effects of such accidents. The General Assembly finds that it is appropriate that the nuclear industry bear costs associated with preparing and implementing plans to deal with the effects of nuclear accidents. The fees assessed by this Act are intended to cover the costs of the Nuclear Safety Preparedness Program authorized by this Act.
+(Source: P.A. 90-601, eff. 6-26-98.)
+
+    (420 ILCS 5/3) (from Ch. 111 1/2, par. 4303)
+    Sec. 3. Definitions. Unless the context otherwise clearly requires, as used in this Act:
+    (1) "Agency" means the Illinois Emergency Management Agency of the State of Illinois.
+    (2) "Director" means the Director of the Illinois Emergency Management Agency.
+    (3) "Person" means any individual, corporation, partnership, firm, association, trust, estate, public or private institution, group, agency, political subdivision of this State, any other state or political subdivision or agency thereof, and any legal successor, representative, agent, or agency of the foregoing.
+    (4) "NRC" means the United States Nuclear Regulatory Commission or any agency which succeeds to its functions in the licensing of nuclear power reactors or facilities for storing spent nuclear fuel.
+    (5) "High-level radioactive waste" means (1) the highly radioactive material resulting from the reprocessing of spent nuclear fuel including liquid waste produced directly in reprocessing and any solid material derived from such liquid waste that contains fission products in sufficient concentrations; and (2) the highly radioactive material that the NRC has determined to be high-level radioactive waste requiring permanent isolation.
+    (6) "Nuclear facilities" means nuclear power plants, facilities housing nuclear test and research reactors, facilities for the chemical conversion of uranium, and facilities for the storage of spent nuclear fuel or high-level radioactive waste.
+    (7) "Spent nuclear fuel" means fuel that has been withdrawn from a nuclear reactor following irradiation, the constituent elements of which have not been separated by reprocessing.
+    (8) "Transuranic waste" means material contaminated with elements that have an atomic number greater than 92, including neptunium, plutonium, americium, and curium, excluding radioactive wastes shipped to a licensed low-level radioactive waste disposal facility.
+    (9) "Highway route controlled quantity of radioactive materials" means that quantity of radioactive materials defined as a highway route controlled quantity under rules of the United States Department of Transportation, or any successor agency.
+(Source: P.A. 93-1029, eff. 8-25-04.)
+
+    (420 ILCS 5/4) (from Ch. 111 1/2, par. 4304)
+    Sec. 4. Nuclear accident plans; fees. Persons engaged within this State in the production of electricity utilizing nuclear energy, the operation of nuclear test and research reactors, the chemical conversion of uranium, or the transportation, storage or possession of spent nuclear fuel or high-level radioactive waste shall pay fees to cover the cost of establishing plans and programs to deal with the possibility of nuclear accidents. Except as provided below, the fees shall be used to fund those Agency and local government activities defined as necessary by the Director to implement and maintain the plans and programs authorized by this Act. Local governments incurring expenses attributable to implementation and maintenance of the plans and programs authorized by this Act may apply to the Agency for compensation for those expenses, and upon approval by the Director of applications submitted by local governments, the Agency shall compensate local governments from fees collected under this Section. Compensation for local governments shall include $250,000 in any year through fiscal year 1993, $275,000 in fiscal year 1994 and fiscal year 1995, $300,000 in fiscal year 1996, $400,000 in fiscal year 1997, and $450,000 in fiscal year 1998 and thereafter. Appropriations to the Department of Nuclear Safety (of which the Agency is the successor) for compensation to local governments from the Nuclear Safety Emergency Preparedness Fund provided for in this Section shall not exceed $650,000 per State fiscal year. Expenditures from these appropriations shall not exceed, in a single State fiscal year, the annual compensation amount made available to local governments under this Section, unexpended funds made available for local government compensation in the previous fiscal year, and funds recovered under the Illinois Grant Funds Recovery Act during previous fiscal years. Notwithstanding any other provision of this Act, the expenditure limitation for fiscal year 1998 shall include the additional $100,000 made available to local governments for fiscal year 1997 under this amendatory Act of 1997. The Agency shall, by rule, determine the method for compensating local governments under this Section. The appropriation shall not exceed $500,000 in any year preceding fiscal year 1996; the appropriation shall not exceed $625,000 in fiscal year 1996, $725,000 in fiscal year 1997, and $775,000 in fiscal year 1998 and thereafter. The fees shall consist of the following:
+        (1) A one-time charge of $590,000 per nuclear power
+    	
+station in this State to be paid by the owners of the stations.
+        (2) An additional charge of $240,000 per nuclear
+    	
+power station for which a fee under subparagraph (1) was paid before June 30, 1982.
+        (3) Through June 30, 1982, an annual fee of $75,000
+    	
+per year for each nuclear power reactor for which an operating license has been issued by the NRC, and after June 30, 1982, and through June 30, 1984 an annual fee of $180,000 per year for each nuclear power reactor for which an operating license has been issued by the NRC, and after June 30, 1984, and through June 30, 1991, an annual fee of $400,000 for each nuclear power reactor for which an operating license has been issued by the NRC, to be paid by the owners of nuclear power reactors operating in this State. After June 30, 1991, the owners of nuclear power reactors in this State for which operating licenses have been issued by the NRC shall pay the following fees for each such nuclear power reactor: for State fiscal year 1992, $925,000; for State fiscal year 1993, $975,000; for State fiscal year 1994; $1,010,000; for State fiscal year 1995, $1,060,000; for State fiscal years 1996 and 1997, $1,110,000; for State fiscal year 1998, $1,314,000; for State fiscal year 1999, $1,368,000; for State fiscal year 2000, $1,404,000; for State fiscal year 2001, $1,696,455; for State fiscal year 2002, $1,730,636; for State fiscal year 2003 through State fiscal year 2011, $1,757,727; for State fiscal year 2012 and subsequent fiscal years, $1,903,182.
+        (3.5) The owner of a nuclear power reactor that
+    	
+notifies the Nuclear Regulatory Commission that the nuclear power reactor has permanently ceased operations during State fiscal year 1998 shall pay the following fees for each such nuclear power reactor: $1,368,000 for State fiscal year 1999 and $1,404,000 for State fiscal year 2000.
+        (4) A capital expenditure surcharge of $1,400,000 per
+    	
+nuclear power station in this State, whether operating or under construction, shall be paid by the owners of the station.
+        (5) An annual fee of $25,000 per year for each site
+    	
+for which a valid operating license has been issued by NRC for the operation of an away-from-reactor spent nuclear fuel or high-level radioactive waste storage facility, to be paid by the owners of facilities for the storage of spent nuclear fuel or high-level radioactive waste for others in this State.
+        (6) A one-time charge of $280,000 for each facility
+    	
+in this State housing a nuclear test and research reactor, to be paid by the operator of the facility. However, this charge shall not be required to be paid by any tax-supported institution.
+        (7) A one-time charge of $50,000 for each facility in
+    	
+this State for the chemical conversion of uranium, to be paid by the owner of the facility.
+        (8) An annual fee of $150,000 per year for each
+    	
+facility in this State housing a nuclear test and research reactor, to be paid by the operator of the facility. However, this annual fee shall not be required to be paid by any tax-supported institution.
+        (9) An annual fee of $15,000 per year for each
+    	
+facility in this State for the chemical conversion of uranium, to be paid by the owner of the facility.
+        (10) A fee assessed at the rate of $2,500 per truck
+    	
+for each truck shipment and $4,500 for the first cask and $3,000 for each additional cask for each rail shipment of spent nuclear fuel, high-level radioactive waste, transuranic waste, or a highway route controlled quantity of radioactive materials received at or departing from any nuclear power station or away-from-reactor spent nuclear fuel, high-level radioactive waste, transuranic waste storage facility, or other facility in this State to be paid by the shipper of the spent nuclear fuel, high level radioactive waste, transuranic waste, or highway route controlled quantity of radioactive material. Truck shipments of greater than 250 miles in Illinois are subject to a surcharge of $25 per mile over 250 miles for each truck in the shipment.
+        (11) A fee assessed at the rate of $2,500 per truck
+    	
+for each truck shipment and $4,500 for the first cask and $3,000 for each additional cask for each rail shipment of spent nuclear fuel, high-level radioactive waste, transuranic waste, or a highway route controlled quantity of radioactive materials traversing the State to be paid by the shipper of the spent nuclear fuel, high level radioactive waste, transuranic waste, or highway route controlled quantity of radioactive material. Truck shipments of greater than 250 miles in Illinois are subject to a surcharge of $25 per mile over 250 miles for each truck in the shipment. For truck shipments of less than 100 miles in Illinois that consist entirely of cobalt-60 or other medical isotopes or both, the $2,500 per truck fee shall be reduced to $1,500 for the first truck and $750 for each additional truck in the same shipment.
+        (12) In each of the State fiscal years 1988 through
+    	
+1991, in addition to the annual fee provided for in subparagraph (3), a fee of $400,000 for each nuclear power reactor for which an operating license has been issued by the NRC, to be paid by the owners of nuclear power reactors operating in this State. Within 120 days after the end of the State fiscal years ending June 30, 1988, June 30, 1989, June 30, 1990, and June 30, 1991, the Agency shall determine the expenses of the Illinois Nuclear Safety Preparedness Program paid from funds appropriated for those fiscal years.
+(Source: P.A. 97-195, eff. 7-25-11; 97-732, eff. 6-30-12; 98-728, eff. 1-1-15.)
+
+    (420 ILCS 5/5) (from Ch. 111 1/2, par. 4305)
+    Sec. 5. (a) Except as otherwise provided in this Section, within 30 days after the beginning of each State fiscal year, each person who possessed a valid operating license issued by the NRC for a nuclear power reactor or a spent fuel storage facility during any portion of the previous fiscal year shall pay to the Agency the fees imposed by Section 4 of this Act. The one-time facility charge assessed pursuant to subparagraph (1) of Section 4 shall be paid to the Agency not less than 2 years prior to scheduled commencement of commercial operation. The additional facility charge assessed pursuant to subparagraph (2) of Section 4 shall be paid to the Department within 90 days of June 30, 1982. Fees assessed pursuant to subparagraph (3) of Section 4 for State fiscal year 1992 shall be payable as follows: $400,000 due on August 1, 1991, and $525,000 due on January 1, 1992. Fees assessed pursuant to subparagraph (3) of Section 4 for State fiscal years 1993 through 2011 shall be due and payable in two equal payments on July 1 and January 1 during the fiscal year in which the fee is due. For State fiscal year 2012 and subsequent fiscal years, fees shall be due and payable in 4 equal payments on July 1, October 1, January 1, and April 1 during the fiscal year in which the fee is due. Fees assessed pursuant to subparagraph (4) of Section 4 shall be paid in six payments, the first, in the amount of $400,000, shall be due and payable 30 days after the effective date of this Amendatory Act of 1984. Subsequent payments shall be in the amount of $200,000 each, and shall be due and payable annually on August 1, 1985 through August 1, 1989, inclusive. Fees assessed under the provisions of subparagraphs (6) and (7) of Section 4 of this Act shall be paid on or before January 1, 1990. Fees assessed under the provisions of subparagraphs (8) and (9) of Section 4 of this Act shall be paid on or before January 1st of each year, beginning January 1, 1990. Fees assessed under the provisions of subparagraphs (10) and (11) of Section 4 of this Act shall be paid to the Agency within 60 days after completion of such shipments within this State. Fees assessed pursuant to subparagraph (12) of Section 4 shall be paid to the Agency by each person who possessed a valid operating license issued by the NRC for a nuclear power reactor during any portion of the previous State fiscal year as follows: the fee due in fiscal year 1988 shall be paid on January 15, 1988, the fee due in fiscal year 1989 shall be paid on December 1, 1988, and subsequent fees shall be paid annually on December 1, 1989 through December 1, 1990.
+    (b) Fees assessed pursuant to paragraph (3.5) of Section 4 for State fiscal years 1999 and 2000 shall be due and payable in 2 equal payments on July 1 and January 1 during the fiscal year in which the fee is due. The fee due on July 1, 1998 shall be payable on that date, or within 10 days after the effective date of this amendatory Act of 1998, whichever is later.
+    (c) Any person who fails to pay a fee assessed under Section 4 of this Act within 90 days after the fee is payable is liable in a civil action for an amount not to exceed 4 times the amount assessed and not paid. The action shall be brought by the Attorney General at the request of the Agency. If the action involves a fixed facility in Illinois, the action shall be brought in the Circuit Court of the county in which the facility is located. If the action does not involve a fixed facility in Illinois, the action shall be brought in the Circuit Court of Sangamon County.
+(Source: P.A. 97-195, eff. 7-25-11.)
+
+    (420 ILCS 5/6)
+    Sec. 6. (Repealed).
+(Source: P.A. 93-1029, eff. 8-25-04. Repealed by P.A. 97-732, eff. 6-30-12.)
+
+    (420 ILCS 5/7) (from Ch. 111 1/2, par. 4307)
+    Sec. 7. All monies received by the Agency under this Act shall be deposited in the State Treasury and shall be set apart in a special fund to be known as the "Nuclear Safety Emergency Preparedness Fund". All monies within the Nuclear Safety Emergency Preparedness Fund shall be invested by the State Treasurer in accordance with established investment practices. Interest earned by such investment shall be returned to the Nuclear Safety Emergency Preparedness Fund. Monies deposited in this fund shall be expended by the Agency to support the activities of the Illinois Nuclear Safety Preparedness Program, including activities of the Illinois State Police and the Illinois Commerce Commission under Section 8(a)(9), or to fund any other administrative or operational costs of the Agency.
+(Source: P.A. 97-732, eff. 6-30-12.)
+
+    (420 ILCS 5/8) (from Ch. 111 1/2, par. 4308)
+    Sec. 8. (a) The Illinois Nuclear Safety Preparedness Program shall consist of an assessment of the potential nuclear accidents, their radiological consequences, and the necessary protective actions required to mitigate the effects of such accidents. It shall include, but not necessarily be limited to:
+        (1) Development of a remote effluent monitoring
+    	
+system capable of reliably detecting and quantifying accidental radioactive releases from nuclear power plants to the environment;
+        (2) Development of an environmental monitoring
+    	
+program for nuclear facilities other than nuclear power plants;
+        (3) Development of procedures for radiological
+    	
+assessment and radiation exposure control for areas surrounding each nuclear facility in Illinois;
+        (4) Radiological training of state and local
+    	
+emergency response personnel in accordance with the Agency's responsibilities under the program;
+        (5) Participation in the development of accident
+    	
+scenarios and in the exercising of fixed facility nuclear emergency response plans;
+        (6) Development of mitigative emergency planning
+    	
+standards including, but not limited to, standards pertaining to evacuations, re-entry into evacuated areas, contaminated foodstuffs and contaminated water supplies;
+        (7) Provision of specialized response equipment
+    	
+necessary to accomplish this task;
+        (8) Implementation of the Boiler and Pressure Vessel
+    	
+Safety program at nuclear steam-generating facilities as mandated by Section 2005-35 of the Department of Nuclear Safety Law, or its successor statute;
+        (9) Development and implementation of a plan for
+    	
+inspecting and escorting all shipments of spent nuclear fuel, high-level radioactive waste, transuranic waste, and highway route controlled quantities of radioactive materials in Illinois; and
+        (10) Implementation of the program under the Illinois
+    	
+Nuclear Facility Safety Act.
+    (b) The Agency may incorporate data collected by the operator of a nuclear facility into the Agency's remote monitoring system.
+    (c) The owners of each nuclear power reactor in Illinois shall provide the Agency all system status signals which initiate Emergency Action Level Declarations, actuate accident mitigation and provide mitigation verification as directed by the Agency. The Agency shall designate by rule those system status signals that must be provided. Signals providing indication of operating power level shall also be provided. The owners of the nuclear power reactors shall, at their expense, ensure that valid signals will be provided continuously 24 hours a day.
+    All such signals shall be provided in a manner and at a frequency specified by the Agency for incorporation into and augmentation of the remote effluent monitoring system specified in subsection (a) (1) of this Section. Provision shall be made for assuring that such system status and power level signals shall be available to the Agency during reactor operation as well as throughout accidents and subsequent recovery operations.
+    For nuclear reactors with operating licenses issued by the Nuclear Regulatory Commission prior to the effective date of this amendatory Act, such system status and power level signals shall be provided to the Department of Nuclear Safety (of which the Agency is the successor) by March 1, 1985. For reactors without such a license on the effective date of this amendatory Act, such signals shall be provided to the Department prior to commencing initial fuel load for such reactor. Nuclear reactors receiving their operating license after the effective date of this amendatory Act, but before July 1, 1985, shall provide such system status and power level signals to the Department of Nuclear Safety (of which the Agency is the successor) by September 1, 1985.
+(Source: P.A. 93-1029, eff. 8-25-04.)
+
+    (420 ILCS 5/8.5)
+    Sec. 8.5. (Repealed).
+(Source: P.A. 97-732, eff. 6-30-12. Repealed internally, eff. 1-1-15.)
+
+    (420 ILCS 5/9) (from Ch. 111 1/2, par. 4309)
+    Sec. 9. Any equipment purchased by the Agency to be installed on the premises of a nuclear facility pursuant to the provisions of subsections (1), (2) and (7) of Section 8 of this Act shall be installed by the owner of such nuclear facility in accordance with criteria and standards established by the Director of the Agency, including criteria for location, supporting utilities, and methods of installation. Such installation shall be at no cost to the Agency. The owner of the nuclear facility shall also, at its expense, pay for modifications of its facility as requested by the Department to accommodate the Agency's equipment including updated equipment, and to accommodate changes in the Agency's criteria and standards.
+(Source: P.A. 93-1029, eff. 8-25-04.)
+
+    (420 ILCS 5/10) (from Ch. 111 1/2, par. 4310)
+    Sec. 10. The Agency may accept and administer according to law, loans, grants, or other funds or gifts from the Federal Government and from other sources, public and private, for carrying out its functions under this Act.
+(Source: P.A. 93-1029, eff. 8-25-04.)
+
+    (420 ILCS 5/11) (from Ch. 111 1/2, par. 4311)
+    Sec. 11. Fees and expenses related to federal activities and facilities. If any activity or facility for which a fee is imposed or an expense is incurred under this Act is an activity or facility of the federal government, the fee shall be paid or the expense shall be borne by the prime contractor under contract with the federal government to perform the activity or operate the facility. If the federal government performs the activity or operates the facility directly, the fee shall be paid or the expense incurred only as provided by federal law.
+(Source: P.A. 86-901.)

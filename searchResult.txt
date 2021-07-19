@@ -1,0 +1,7 @@
+"Video Gaming Act.txt" - act - 88
+"Video Gaming Act.txt" - game - 14
+"Video Gaming Act.txt" - influence - 2
+"Tattoo and Body Piercing Establishment Registration Act.txt" - pain - 0
+"Tattoo and Body Piercing Establishment Registration Act.txt" - color - 2
+"Tattoo and Body Piercing Establishment Registration Act.txt" - part - 1
+"Tattoo and Body Piercing Establishment Registration Act.txt" - head - 0

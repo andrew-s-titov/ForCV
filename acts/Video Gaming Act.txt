@@ -1,0 +1,379 @@
+GAMING
+(230 ILCS 40/) Video Gaming Act.
+
+ 
+    (230 ILCS 40/Art. 5 heading)
+ARTICLE 5.
+
+(Source: P.A. 96-34, eff. 7-13-09.)
+
+    (230 ILCS 40/1)
+    Sec. 1. Short title. This Article may be cited as the Video Gaming Act. Any references in this Article to "this Act" mean this Article.
+(Source: P.A. 96-34, eff. 7-13-09.)
+
+    (230 ILCS 40/5)
+    Sec. 5. Definitions. As used in this Act:
+    "Board" means the Illinois Gaming Board.
+    "Credit" means one, 5, 10, or 25 cents either won or purchased by a player.
+    "Distributor" means an individual, partnership, corporation, or limited liability company licensed under this Act to buy, sell, lease, or distribute video gaming terminals or major components or parts of video gaming terminals to or from terminal operators.
+    "Electronic card" means a card purchased from a licensed establishment, licensed fraternal establishment, licensed veterans establishment, licensed truck stop establishment, or licensed large truck stop establishment for use in that establishment as a substitute for cash in the conduct of gaming on a video gaming terminal.
+    "Electronic voucher" means a voucher printed by an electronic video game machine that is redeemable in the licensed establishment for which it was issued.
+    "In-location bonus jackpot" means one or more video gaming terminals at a single licensed establishment that allows for wagers placed on such video gaming terminals to contribute to a cumulative maximum jackpot of up to $10,000.
+    "Terminal operator" means an individual, partnership, corporation, or limited liability company that is licensed under this Act and that owns, services, and maintains video gaming terminals for placement in licensed establishments, licensed truck stop establishments, licensed large truck stop establishments, licensed fraternal establishments, or licensed veterans establishments.
+    "Licensed technician" means an individual who is licensed under this Act to repair, service, and maintain video gaming terminals.
+    "Licensed terminal handler" means a person, including but not limited to an employee or independent contractor working for a manufacturer, distributor, supplier, technician, or terminal operator, who is licensed under this Act to possess or control a video gaming terminal or to have access to the inner workings of a video gaming terminal. A licensed terminal handler does not include an individual, partnership, corporation, or limited liability company defined as a manufacturer, distributor, supplier, technician, or terminal operator under this Act.
+    "Manufacturer" means an individual, partnership, corporation, or limited liability company that is licensed under this Act and that manufactures or assembles video gaming terminals.
+    "Supplier" means an individual, partnership, corporation, or limited liability company that is licensed under this Act to supply major components or parts to video gaming terminals to licensed terminal operators.
+    "Net terminal income" means money put into a video gaming terminal minus credits paid out to players.
+    "Video gaming terminal" means any electronic video game machine that, upon insertion of cash, electronic cards or vouchers, or any combination thereof, is available to play or simulate the play of a video game, including but not limited to video poker, line up, and blackjack, as authorized by the Board utilizing a video display and microprocessors in which the player may receive free games or credits that can be redeemed for cash. The term does not include a machine that directly dispenses coins, cash, or tokens or is for amusement purposes only.
+    "Licensed establishment" means any licensed retail establishment where alcoholic liquor is drawn, poured, mixed, or otherwise served for consumption on the premises, whether the establishment operates on a nonprofit or for-profit basis. "Licensed establishment" includes any such establishment that has a contractual relationship with an inter-track wagering location licensee licensed under the Illinois Horse Racing Act of 1975, provided any contractual relationship shall not include any transfer or offer of revenue from the operation of video gaming under this Act to any licensee licensed under the Illinois Horse Racing Act of 1975. Provided, however, that the licensed establishment that has such a contractual relationship with an inter-track wagering location licensee may not, itself, be (i) an inter-track wagering location licensee, (ii) the corporate parent or subsidiary of any licensee licensed under the Illinois Horse Racing Act of 1975, or (iii) the corporate subsidiary of a corporation that is also the corporate parent or subsidiary of any licensee licensed under the Illinois Horse Racing Act of 1975. "Licensed establishment" does not include a facility operated by an organization licensee, an inter-track wagering licensee, or an inter-track wagering location licensee licensed under the Illinois Horse Racing Act of 1975 or a riverboat licensed under the Illinois Gambling Act, except as provided in this paragraph. The changes made to this definition by Public Act 98-587 are declarative of existing law.
+    "Licensed fraternal establishment" means the location where a qualified fraternal organization that derives its charter from a national fraternal organization regularly meets.
+    "Licensed veterans establishment" means the location where a qualified veterans organization that derives its charter from a national veterans organization regularly meets.
+    "Licensed truck stop establishment" means a facility (i) that is at least a 3-acre facility with a convenience store, (ii) with separate diesel islands for fueling commercial motor vehicles, (iii) that sells at retail more than 10,000 gallons of diesel or biodiesel fuel per month, and (iv) with parking spaces for commercial motor vehicles. "Commercial motor vehicles" has the same meaning as defined in Section 18b-101 of the Illinois Vehicle Code. The requirement of item (iii) of this paragraph may be met by showing that estimated future sales or past sales average at least 10,000 gallons per month.
+    "Licensed large truck stop establishment" means a facility located within 3 road miles from a freeway interchange, as measured in accordance with the Department of Transportation's rules regarding the criteria for the installation of business signs: (i) that is at least a 3-acre facility with a convenience store, (ii) with separate diesel islands for fueling commercial motor vehicles, (iii) that sells at retail more than 50,000 gallons of diesel or biodiesel fuel per month, and (iv) with parking spaces for commercial motor vehicles. "Commercial motor vehicles" has the same meaning as defined in Section 18b-101 of the Illinois Vehicle Code. The requirement of item (iii) of this paragraph may be met by showing that estimated future sales or past sales average at least 50,000 gallons per month.
+(Source: P.A. 101-31, eff. 6-28-19.)
+
+    (230 ILCS 40/15)
+    Sec. 15. Minimum requirements for licensing and registration. Every video gaming terminal offered for play shall first be tested and approved pursuant to the rules of the Board, and each video gaming terminal offered in this State for play shall conform to an approved model. For the examination of video gaming machines and associated equipment as required by this Section, the Board shall utilize the services of independent outside testing laboratories that have been accredited in accordance with ISO/IEC 17025 by an accreditation body that is a signatory to the International Laboratory Accreditation Cooperation Mutual Recognition Agreement signifying they are qualified to perform such examinations. Notwithstanding any law to the contrary, the Board shall consider the licensing of independent outside testing laboratory applicants in accordance with procedures established by the Board by rule. The Board shall not withhold its approval of an independent outside testing laboratory license applicant that has been accredited as required by this Section and is licensed in gaming jurisdictions comparable to Illinois. Upon the finalization of required rules, the Board shall license independent testing laboratories and accept the test reports of any licensed testing laboratory of the video gaming machine's or associated equipment manufacturer's choice, notwithstanding the existence of contracts between the Board and any independent testing laboratory. Every video gaming terminal offered in this State for play must meet minimum standards approved by the Board. Each approved model shall, at a minimum, meet the following criteria:
+        (1) It must conform to all requirements of federal
+    	
+law and regulations, including FCC Class A Emissions Standards.
+        (2) It must theoretically pay out a mathematically
+    	
+demonstrable percentage during the expected lifetime of the machine of all amounts played, which must not be less than 80%. The Board shall establish a maximum payout percentage for approved models by rule. Video gaming terminals that may be affected by skill must meet this standard when using a method of play that will provide the greatest return to the player over a period of continuous play.
+        (3) It must use a random selection process to
+    	
+determine the outcome of each play of a game. The random selection process must meet 99% confidence limits using a standard chi-squared test for (randomness) goodness of fit.
+        (4) It must display an accurate representation of the
+    	
+game outcome.
+        (5) It must not automatically alter pay tables or any
+    	
+function of the video gaming terminal based on internal computation of hold percentage or have any means of manipulation that affects the random selection process or probabilities of winning a game.
+        (6) It must not be adversely affected by static
+    	
+discharge or other electromagnetic interference.
+        (7) It must be capable of detecting and displaying
+    	
+the following conditions during idle states or on demand: power reset; door open; and door just closed.
+        (8) It must have the capacity to display complete
+    	
+play history (outcome, intermediate play steps, credits available, bets placed, credits paid, and credits cashed out) for the most recent game played and 10 games prior thereto.
+        (9) The theoretical payback percentage of a video
+    	
+gaming terminal must not be capable of being changed without making a hardware or software change in the video gaming terminal, either on site or via the central communications system.
+        (10) Video gaming terminals must be designed so that
+    	
+replacement of parts or modules required for normal maintenance does not necessitate replacement of the electromechanical meters.
+        (11) It must have nonresettable meters housed in a
+    	
+locked area of the terminal that keep a permanent record of all cash inserted into the machine, all winnings made by the terminal printer, credits played in for video gaming terminals, and credits won by video gaming players. The video gaming terminal must provide the means for on-demand display of stored information as determined by the Board.
+        (12) Electronically stored meter information required
+    	
+by this Section must be preserved for a minimum of 180 days after a power loss to the service.
+        (13) It must have one or more mechanisms that accept
+    	
+cash in the form of bills. The mechanisms shall be designed to prevent obtaining credits without paying by stringing, slamming, drilling, or other means. If such attempts at physical tampering are made, the video gaming terminal shall suspend itself from operating until reset.
+        (14) It shall have accounting software that keeps an
+    	
+electronic record which includes, but is not limited to, the following: total cash inserted into the video gaming terminal; the value of winning tickets claimed by players; the total credits played; the total credits awarded by a video gaming terminal; and pay back percentage credited to players of each video game.
+        (15) It shall be linked by a central communications
+    	
+system to provide auditing program information as approved by the Board. The central communications system shall use a standard industry protocol, as defined by the Gaming Standards Association, and shall have the functionality to enable the Board or its designee to activate or deactivate individual gaming devices from the central communications system. In no event may the communications system approved by the Board limit participation to only one manufacturer of video gaming terminals by either the cost in implementing the necessary program modifications to communicate or the inability to communicate with the central communications system.
+        (16) The Board, in its discretion, may require video
+    	
+gaming terminals to display Amber Alert messages if the Board makes a finding that it would be economically and technically feasible and pose no risk to the integrity and security of the central communications system and video gaming terminals.
+    Licensed terminal handlers shall have access to video gaming terminals, including, but not limited to, logic door access, without the physical presence or supervision of the Board or its agent to perform, in coordination with and with project approval from the central communication system provider:
+        (i) the clearing of the random access memory and
+    	
+reprogramming of the video gaming terminal;
+        (ii) the installation of new video gaming terminal
+    	
+software and software upgrades that have been approved by the Board;
+        (iii) the placement, connection to the central
+    	
+communication system, and go-live operation of video gaming terminals at a licensed establishment, licensed truck stop establishment, licensed large truck stop establishment, licensed fraternal establishment, or licensed veterans establishment;
+        (iv) the repair and maintenance of a video gaming
+    	
+terminal located at a licensed establishment, licensed truck stop establishment, licensed large truck stop establishment, licensed fraternal establishment, or licensed veterans establishment, including, but not limited to, the replacement of the video gaming terminal with a new video gaming terminal;
+        (v) the temporary movement, disconnection,
+    	
+replacement, and reconnection of video gaming terminals to allow for physical improvements and repairs at a licensed establishment, licensed truck stop establishment, licensed large truck stop establishment, licensed fraternal establishment, or licensed veterans establishment, such as replacement of flooring, interior repairs, and other similar activities; and
+        (vi) such other functions as the Board may otherwise
+    	
+authorize.
+    The Board shall, at a licensed terminal operator's expense, cause all keys and other required devices to be provided to a terminal operator necessary to allow the licensed terminal handler access to the logic door to the terminal operator's video gaming terminals.
+    The Board may adopt rules to establish additional criteria to preserve the integrity and security of video gaming in this State. The central communications system vendor may be licensed as a video gaming terminal manufacturer or a video gaming terminal distributor, or both, but in no event shall the central communications system vendor be licensed as a video gaming terminal operator.
+    The Board shall not permit the development of information or the use by any licensee of gaming device or individual game performance data. Nothing in this Act shall inhibit or prohibit the Board from the use of gaming device or individual game performance data in its regulatory duties. The Board shall adopt rules to ensure that all licensees are treated and all licensees act in a non-discriminatory manner and develop processes and penalties to enforce those rules.
+(Source: P.A. 101-31, eff. 6-28-19.)
+
+    (230 ILCS 40/20)
+    Sec. 20. Video gaming terminal payouts.
+    (a) A video gaming terminal may not directly dispense coins, cash, tokens, or any other article of exchange or value except for receipt tickets. Tickets shall be dispensed by pressing the ticket dispensing button on the video gaming terminal at the end of one's turn or play. The ticket shall indicate the total amount of credits and the cash award, the time of day in a 24-hour format showing hours and minutes, the date, the terminal serial number, the sequential number of the ticket, and an encrypted validation number from which the validity of the prize may be determined. The player shall turn in this ticket to the appropriate person at the licensed establishment, licensed truck stop establishment, licensed large truck stop establishment, licensed fraternal establishment, or licensed veterans establishment to receive the cash award.
+    (b) The cost of the credit shall be one cent, 5 cents, 10 cents, 25 cents, or $1, and the maximum wager played per hand shall not exceed $4. No cash award for the maximum wager on any individual hand shall exceed $1,199. No cash award for the maximum wager on a jackpot, progressive or otherwise, shall exceed $10,000.
+    (c) In-location bonus jackpot games are hereby authorized. The Board shall adopt emergency rules pursuant to Section 5-45 of the Illinois Administrative Procedure Act to implement this subsection (c) within 90 days after the effective date of this amendatory Act of the 101st General Assembly. Jackpot winnings from in-location progressive games shall be paid by the terminal operator to the player not later than 3 days after winning such a jackpot.
+(Source: P.A. 101-31, eff. 6-28-19.)
+
+    (230 ILCS 40/25)
+    Sec. 25. Restriction of licensees.
+    (a) Manufacturer. A person may not be licensed as a manufacturer of a video gaming terminal in Illinois unless the person has a valid manufacturer's license issued under this Act. A manufacturer may only sell video gaming terminals for use in Illinois to persons having a valid distributor's license.
+    (b) Distributor. A person may not sell, distribute, or lease or market a video gaming terminal in Illinois unless the person has a valid distributor's license issued under this Act. A distributor may only sell video gaming terminals for use in Illinois to persons having a valid distributor's or terminal operator's license.
+    (c) Terminal operator. A person may not own, maintain, or place a video gaming terminal unless he has a valid terminal operator's license issued under this Act. A terminal operator may only place video gaming terminals for use in Illinois in licensed establishments, licensed truck stop establishments, licensed large truck stop establishments, licensed fraternal establishments, and licensed veterans establishments. No terminal operator may give anything of value, including but not limited to a loan or financing arrangement, to a licensed establishment, licensed truck stop establishment, licensed large truck stop establishment, licensed fraternal establishment, or licensed veterans establishment as any incentive or inducement to locate video terminals in that establishment. Of the after-tax profits from a video gaming terminal, 50% shall be paid to the terminal operator and 50% shall be paid to the licensed establishment, licensed truck stop establishment, licensed large truck stop establishment, licensed fraternal establishment, or licensed veterans establishment, notwithstanding any agreement to the contrary. A video terminal operator that violates one or more requirements of this subsection is guilty of a Class 4 felony and is subject to termination of his or her license by the Board.
+    (d) Licensed technician. A person may not service, maintain, or repair a video gaming terminal in this State unless he or she (1) has a valid technician's license issued under this Act, (2) is a terminal operator, or (3) is employed by a terminal operator, distributor, or manufacturer.
+    (d-5) Licensed terminal handler. No person, including, but not limited to, an employee or independent contractor working for a manufacturer, distributor, supplier, technician, or terminal operator licensed pursuant to this Act, shall have possession or control of a video gaming terminal, or access to the inner workings of a video gaming terminal, unless that person possesses a valid terminal handler's license issued under this Act.
+    (e) Licensed establishment. No video gaming terminal may be placed in any licensed establishment, licensed veterans establishment, licensed truck stop establishment, licensed large truck stop establishment, or licensed fraternal establishment unless the owner or agent of the owner of the licensed establishment, licensed veterans establishment, licensed truck stop establishment, licensed large truck stop establishment, or licensed fraternal establishment has entered into a written use agreement with the terminal operator for placement of the terminals. A copy of the use agreement shall be on file in the terminal operator's place of business and available for inspection by individuals authorized by the Board. A licensed establishment, licensed truck stop establishment, licensed veterans establishment, or licensed fraternal establishment may operate up to 6 video gaming terminals on its premises at any time. A licensed large truck stop establishment may operate up to 10 video gaming terminals on its premises at any time.
+    (f) (Blank).
+    (g) Financial interest restrictions. As used in this Act, "substantial interest" in a partnership, a corporation, an organization, an association, a business, or a limited liability company means:
+        (A) When, with respect to a sole proprietorship, an
+    	
+individual or his or her spouse owns, operates, manages, or conducts, directly or indirectly, the organization, association, or business, or any part thereof; or
+        (B) When, with respect to a partnership, the
+    	
+individual or his or her spouse shares in any of the profits, or potential profits, of the partnership activities; or
+        (C) When, with respect to a corporation, an
+    	
+individual or his or her spouse is an officer or director, or the individual or his or her spouse is a holder, directly or beneficially, of 5% or more of any class of stock of the corporation; or
+        (D) When, with respect to an organization not covered
+    	
+in (A), (B) or (C) above, an individual or his or her spouse is an officer or manages the business affairs, or the individual or his or her spouse is the owner of or otherwise controls 10% or more of the assets of the organization; or
+        (E) When an individual or his or her spouse furnishes
+    	
+5% or more of the capital, whether in cash, goods, or services, for the operation of any business, association, or organization during any calendar year; or
+        (F) When, with respect to a limited liability
+    	
+company, an individual or his or her spouse is a member, or the individual or his or her spouse is a holder, directly or beneficially, of 5% or more of the membership interest of the limited liability company.
+    For purposes of this subsection (g), "individual" includes all individuals or their spouses whose combined interest would qualify as a substantial interest under this subsection (g) and whose activities with respect to an organization, association, or business are so closely aligned or coordinated as to constitute the activities of a single entity.
+    (h) Location restriction. A licensed establishment, licensed truck stop establishment, licensed large truck stop establishment, licensed fraternal establishment, or licensed veterans establishment that is (i) located within 1,000 feet of a facility operated by an organization licensee licensed under the Illinois Horse Racing Act of 1975 or the home dock of a riverboat licensed under the Illinois Gambling Act or (ii) located within 100 feet of a school or a place of worship under the Religious Corporation Act, is ineligible to operate a video gaming terminal. The location restrictions in this subsection (h) do not apply if (A) a facility operated by an organization licensee, a school, or a place of worship moves to or is established within the restricted area after a licensed establishment, licensed truck stop establishment, licensed large truck stop establishment, licensed fraternal establishment, or licensed veterans establishment becomes licensed under this Act or (B) a school or place of worship moves to or is established within the restricted area after a licensed establishment, licensed truck stop establishment, licensed large truck stop establishment, licensed fraternal establishment, or licensed veterans establishment obtains its original liquor license. For the purpose of this subsection, "school" means an elementary or secondary public school, or an elementary or secondary private school registered with or recognized by the State Board of Education.
+    Notwithstanding the provisions of this subsection (h), the Board may waive the requirement that a licensed establishment, licensed truck stop establishment, licensed large truck stop establishment, licensed fraternal establishment, or licensed veterans establishment not be located within 1,000 feet from a facility operated by an organization licensee licensed under the Illinois Horse Racing Act of 1975 or the home dock of a riverboat licensed under the Illinois Gambling Act. The Board shall not grant such waiver if there is any common ownership or control, shared business activity, or contractual arrangement of any type between the establishment and the organization licensee or owners licensee of a riverboat. The Board shall adopt rules to implement the provisions of this paragraph.
+    (h-5) Restrictions on licenses in malls. The Board shall not grant an application to become a licensed video gaming location if the Board determines that granting the application would more likely than not cause a terminal operator, individually or in combination with other terminal operators, licensed video gaming location, or other person or entity, to operate the video gaming terminals in 2 or more licensed video gaming locations as a single video gaming operation.
+        (1) In making determinations under this
+    	
+subsection (h-5), factors to be considered by the Board shall include, but not be limited to, the following:
+            (A) the physical aspects of the location;
+            (B) the ownership, control, or management of
+        	
+the location;
+            (C) any arrangements, understandings, or
+        	
+agreements, written or otherwise, among or involving any persons or entities that involve the conducting of any video gaming business or the sharing of costs or revenues; and
+            (D) the manner in which any terminal operator
+        	
+or other related entity markets, advertises, or otherwise describes any location or locations to any other person or entity or to the public.
+        (2) The Board shall presume, subject to rebuttal,
+    	
+that the granting of an application to become a licensed video gaming location within a mall will cause a terminal operator, individually or in combination with other persons or entities, to operate the video gaming terminals in 2 or more licensed video gaming locations as a single video gaming operation if the Board determines that granting the license would create a local concentration of licensed video gaming locations.
+    For the purposes of this subsection (h-5):
+    "Mall" means a building, or adjoining or connected buildings, containing 4 or more separate locations.
+    "Video gaming operation" means the conducting of video gaming and all related activities.
+    "Location" means a space within a mall containing a separate business, a place for a separate business, or a place subject to a separate leasing arrangement by the mall owner.
+    "Licensed video gaming location" means a licensed establishment, licensed fraternal establishment, licensed veterans establishment, licensed truck stop establishment, or licensed large truck stop.
+    "Local concentration of licensed video gaming locations" means that the combined number of licensed video gaming locations within a mall exceed half of the separate locations within the mall.
+    (i) Undue economic concentration. In addition to considering all other requirements under this Act, in deciding whether to approve the operation of video gaming terminals by a terminal operator in a location, the Board shall consider the impact of any economic concentration of such operation of video gaming terminals. The Board shall not allow a terminal operator to operate video gaming terminals if the Board determines such operation will result in undue economic concentration. For purposes of this Section, "undue economic concentration" means that a terminal operator would have such actual or potential influence over video gaming terminals in Illinois as to:
+        (1) substantially impede or suppress competition
+    	
+among terminal operators;
+        (2) adversely impact the economic stability of the
+    	
+video gaming industry in Illinois; or
+        (3) negatively impact the purposes of the Video
+    	
+Gaming Act.
+    The Board shall adopt rules concerning undue economic concentration with respect to the operation of video gaming terminals in Illinois. The rules shall include, but not be limited to, (i) limitations on the number of video gaming terminals operated by any terminal operator within a defined geographic radius and (ii) guidelines on the discontinuation of operation of any such video gaming terminals the Board determines will cause undue economic concentration.
+    (j) The provisions of the Illinois Antitrust Act are fully and equally applicable to the activities of any licensee under this Act.
+(Source: P.A. 101-31, eff. 6-28-19.)
+
+    (230 ILCS 40/26)
+    Sec. 26. Residency requirement. Each licensed distributor, terminal operator, and person with a substantial interest in a licensed distributor or terminal operator must be an Illinois resident. However, if an out-of-state distributor or terminal operator has performed its respective business within Illinois for at least 48 months prior to the effective date of this Act, the out-of-state person may be eligible for licensing under this Act, upon application to and approval of the Board. The Board shall adopt rules to implement this Section.
+(Source: P.A. 96-38, eff. 7-13-09.)
+
+    (230 ILCS 40/27)
+    Sec. 27. Prohibition of video gaming by political subdivision. A municipality may pass an ordinance prohibiting video gaming within the corporate limits of the municipality. A county board may, for the unincorporated area of the county, pass an ordinance prohibiting video gaming within the unincorporated area of the county.
+(Source: P.A. 96-34, eff. 7-13-09.)
+
+    (230 ILCS 40/30)
+    Sec. 30. Multiple types of licenses prohibited. A video gaming terminal manufacturer may not be licensed as a video gaming terminal operator or own, manage, or control a licensed establishment, licensed truck stop establishment, licensed large truck stop establishment, licensed fraternal establishment, or licensed veterans establishment, and shall be licensed to sell only to persons having a valid distributor's license or, if the manufacturer also holds a valid distributor's license, to sell, distribute, lease, or market to persons having a valid terminal operator's license. A video gaming terminal distributor may not be licensed as a video gaming terminal operator or own, manage, or control a licensed establishment, licensed truck stop establishment, licensed large truck stop establishment, licensed fraternal establishment, or licensed veterans establishment, and shall only contract with a licensed terminal operator. A video gaming terminal operator may not be licensed as a video gaming terminal manufacturer or distributor or own, manage, or control a licensed establishment, licensed truck stop establishment, licensed large truck stop establishment, licensed fraternal establishment, or licensed veterans establishment, and shall be licensed only to contract with licensed distributors and licensed establishments, licensed truck stop establishments, licensed large truck stop establishments, licensed fraternal establishments, and licensed veterans establishments. An owner or manager of a licensed establishment, licensed truck stop establishment, licensed large truck stop establishment, licensed fraternal establishment, or licensed veterans establishment may not be licensed as a video gaming terminal manufacturer, distributor, or operator, and shall only contract with a licensed operator to place and service this equipment.
+(Source: P.A. 101-31, eff. 6-28-19.)
+
+    (230 ILCS 40/35)
+    Sec. 35. Display of license; confiscation; violation as felony.
+    (a) Each video gaming terminal shall be licensed by the Board before placement or operation on the premises of a licensed establishment, licensed truck stop establishment, licensed large truck stop establishment, licensed fraternal establishment, or licensed veterans establishment. The license of each video gaming terminal shall be maintained at the location where the video gaming terminal is operated. Failure to do so is a petty offense with a fine not to exceed $100. Any licensed establishment, licensed truck stop establishment, licensed large truck stop establishment, licensed fraternal establishment, or licensed veterans establishment used for the conduct of gambling games in violation of this Act shall be considered a gambling place in violation of Section 28-3 of the Criminal Code of 2012. Every gambling device found in a licensed establishment, licensed truck stop establishment, licensed large truck stop establishment, licensed fraternal establishment, or licensed veterans establishment operating gambling games in violation of this Act shall be subject to seizure, confiscation, and destruction as provided in Section 28-5 of the Criminal Code of 2012. Any license issued under the Liquor Control Act of 1934 to any owner or operator of a licensed establishment, licensed truck stop establishment, licensed large truck stop establishment, licensed fraternal establishment, or licensed veterans establishment that operates or permits the operation of a video gaming terminal within its establishment in violation of this Act shall be immediately revoked. No person may own, operate, have in his or her possession or custody or under his or her control, or permit to be kept in any place under his or her possession or control, any device that awards credits and contains a circuit, meter, or switch capable of removing and recording the removal of credits when the award of credits is dependent upon chance.
+    Nothing in this Section shall be deemed to prohibit the use of a game device only if the game device is used in an activity that is not gambling under subsection (b) of Section 28-1 of the Criminal Code of 2012.
+    A violation of this Section is a Class 4 felony. All devices that are owned, operated, or possessed in violation of this Section are hereby declared to be public nuisances and shall be subject to seizure, confiscation, and destruction as provided in Section 28-5 of the Criminal Code of 2012.
+    The provisions of this Section do not apply to devices or electronic video game terminals licensed pursuant to this Act. A video gaming terminal operated for amusement only and bearing a valid amusement tax sticker shall not be subject to this Section until 30 days after the Board establishes that the central communications system is functional.
+    (b) (1) The odds of winning each video game shall be posted on or near each video gaming terminal. The manner in which the odds are calculated and how they are posted shall be determined by the Board by rule.
+    (2) No video gaming terminal licensed under this Act may be played except during the legal hours of operation allowed for the consumption of alcoholic beverages at the licensed establishment, licensed fraternal establishment, or licensed veterans establishment. A licensed establishment, licensed fraternal establishment, or licensed veterans establishment that violates this subsection is subject to termination of its license by the Board.
+(Source: P.A. 101-31, eff. 6-28-19.)
+
+    (230 ILCS 40/40)
+    Sec. 40. Video gaming terminal use by minors prohibited. No licensee shall cause or permit any person under the age of 21 years to use or play a video gaming terminal. Any licensee who knowingly permits a person under the age of 21 years to use or play a video gaming terminal is guilty of a business offense and shall be fined an amount not to exceed $5,000.
+(Source: P.A. 96-34, eff. 7-13-09.)
+
+    (230 ILCS 40/43)
+    Sec. 43. Notice of alleged violation of Section 40. In all instances of an alleged violation of Section 40, the Board or its agents or designees shall provide written notice of the alleged violation to the affected licensed establishment, licensed fraternal establishment, licensed veterans establishment, or licensed truck stop establishment within 15 days after the alleged occurrence of the violation.
+(Source: P.A. 101-318, eff. 8-9-19.)
+
+    (230 ILCS 40/45)
+    Sec. 45. Issuance of license.
+    (a) The burden is upon each applicant to demonstrate his suitability for licensure. Each video gaming terminal manufacturer, distributor, supplier, operator, handler, licensed establishment, licensed truck stop establishment, licensed large truck stop establishment, licensed fraternal establishment, and licensed veterans establishment shall be licensed by the Board. The Board may issue or deny a license under this Act to any person pursuant to the same criteria set forth in Section 9 of the Illinois Gambling Act.
+    (a-5) The Board shall not grant a license to a person who has facilitated, enabled, or participated in the use of coin-operated devices for gambling purposes or who is under the significant influence or control of such a person. For the purposes of this Act, "facilitated, enabled, or participated in the use of coin-operated amusement devices for gambling purposes" means that the person has been convicted of any violation of Article 28 of the Criminal Code of 1961 or the Criminal Code of 2012. If there is pending legal action against a person for any such violation, then the Board shall delay the licensure of that person until the legal action is resolved.
+    (b) Each person seeking and possessing a license as a video gaming terminal manufacturer, distributor, supplier, operator, handler, licensed establishment, licensed truck stop establishment, licensed large truck stop establishment, licensed fraternal establishment, or licensed veterans establishment shall submit to a background investigation conducted by the Board with the assistance of the State Police or other law enforcement. To the extent that the corporate structure of the applicant allows, the background investigation shall include any or all of the following as the Board deems appropriate or as provided by rule for each category of licensure: (i) each beneficiary of a trust, (ii) each partner of a partnership, (iii) each member of a limited liability company, (iv) each director and officer of a publicly or non-publicly held corporation, (v) each stockholder of a non-publicly held corporation, (vi) each stockholder of 5% or more of a publicly held corporation, or (vii) each stockholder of 5% or more in a parent or subsidiary corporation.
+    (c) Each person seeking and possessing a license as a video gaming terminal manufacturer, distributor, supplier, operator, handler, licensed establishment, licensed truck stop establishment, licensed large truck stop establishment, licensed fraternal establishment, or licensed veterans establishment shall disclose the identity of every person, association, trust, corporation, or limited liability company having a greater than 1% direct or indirect pecuniary interest in the video gaming terminal operation for which the license is sought. If the disclosed entity is a trust, the application shall disclose the names and addresses of the beneficiaries; if a corporation, the names and addresses of all stockholders and directors; if a limited liability company, the names and addresses of all members; or if a partnership, the names and addresses of all partners, both general and limited.
+    (d) No person may be licensed as a video gaming terminal manufacturer, distributor, supplier, operator, handler, licensed establishment, licensed truck stop establishment, licensed large truck stop establishment, licensed fraternal establishment, or licensed veterans establishment if that person has been found by the Board to:
+        (1) have a background, including a criminal record,
+    	
+reputation, habits, social or business associations, or prior activities that pose a threat to the public interests of the State or to the security and integrity of video gaming;
+        (2) create or enhance the dangers of unsuitable,
+    	
+unfair, or illegal practices, methods, and activities in the conduct of video gaming; or
+        (3) present questionable business practices and
+    	
+financial arrangements incidental to the conduct of video gaming activities.
+    (e) Any applicant for any license under this Act has the burden of proving his or her qualifications to the satisfaction of the Board. The Board may adopt rules to establish additional qualifications and requirements to preserve the integrity and security of video gaming in this State.
+    (f) A non-refundable application fee shall be paid at the time an application for a license is filed with the Board in the following amounts:
+        (1) Manufacturer................................$5,000
+        (2) Distributor.................................$5,000
+        (3) Terminal operator...........................$5,000
+        (4) Supplier....................................$2,500
+        (5) Technician....................................$100
+        (6) Terminal Handler..............................$100
+        (7) Licensed establishment, licensed truck stop
+    establishment, licensed large truck stop establishment,
+    licensed fraternal establishment, or licensed
+    veterans establishment................................$100
+    (g) The Board shall establish an annual fee for each license not to exceed the following:
+        (1) Manufacturer...............................$10,000
+        (2) Distributor................................$10,000
+        (3) Terminal operator...........................$5,000
+        (4) Supplier....................................$2,000
+        (5) Technician....................................$100
+        (6) Licensed establishment, licensed truck stop
+    establishment, licensed large truck stop establishment,
+    licensed fraternal establishment, or licensed
+    veterans establishment................................$100
+        (7) Video gaming terminal.........................$100
+        (8) Terminal Handler.............................$100 
+    (h) A terminal operator and a licensed establishment, licensed truck stop establishment, licensed large truck stop establishment, licensed fraternal establishment, or licensed veterans establishment shall equally split the fees specified in item (7) of subsection (g).
+(Source: P.A. 100-1152, eff. 12-14-18; 101-31, eff. 6-28-19.)
+
+    (230 ILCS 40/50)
+    Sec. 50. Distribution of license fees.
+    (a) All fees collected under Section 45 shall be deposited into the State Gaming Fund.
+    (b) Fees collected under Section 45 shall be used as follows:
+        (1) Twenty-five percent shall be paid, subject to
+    	
+appropriation by the General Assembly, to the Department of Human Services for administration of programs for the treatment of compulsive gambling.
+        (2) Seventy-five percent shall be used for the
+    	
+administration of this Act.
+    (c) All licenses issued by the Board under this Act are renewable annually unless sooner cancelled or terminated. No license issued under this Act is transferable or assignable.
+(Source: P.A. 96-34, eff. 7-13-09; 96-37, eff. 7-13-09.)
+
+    (230 ILCS 40/55)
+    Sec. 55. Precondition for licensed location. In all cases of application for a licensed location, to operate a video gaming terminal, each licensed establishment, licensed fraternal establishment, or licensed veterans establishment shall possess a valid liquor license issued by the Illinois Liquor Control Commission in effect at the time of application and at all times thereafter during which a video gaming terminal is made available to the public for play at that location. Video gaming terminals in a licensed location shall be operated only during the same hours of operation generally permitted to holders of a license under the Liquor Control Act of 1934 within the unit of local government in which they are located. A licensed truck stop establishment or licensed large truck stop establishment that does not hold a liquor license may operate video gaming terminals on a continuous basis. A licensed fraternal establishment or licensed veterans establishment that does not hold a liquor license may operate video gaming terminals if (i) the establishment is located in a county with a population between 6,500 and 7,000, based on the 2000 U.S. Census, (ii) the county prohibits by ordinance the sale of alcohol, and (iii) the establishment is in a portion of the county where the sale of alcohol is prohibited. A licensed fraternal establishment or licensed veterans establishment that does not hold a liquor license may operate video gaming terminals if (i) the establishment is located in a municipality within a county with a population between 8,500 and 9,000 based on the 2000 U.S. Census and (ii) the municipality or county prohibits or limits the sale of alcohol by ordinance in a way that prohibits the establishment from selling alcohol.
+(Source: P.A. 101-31, eff. 6-28-19.)
+
+    (230 ILCS 40/57)
+    Sec. 57. Insurance. Each terminal operator shall maintain liability insurance on any gaming device that it places in a licensed video gaming location in an amount set by the Board.
+(Source: P.A. 96-34, eff. 7-13-09; 96-1410, eff. 7-30-10.)
+
+    (230 ILCS 40/58)
+    (Text of Section from P.A. 101-31)
+    Sec. 58. Location of terminals. Video gaming terminals must be located in an area restricted to persons over 21 years of age the entrance to which is within the view of at least one employee, who is over 21 years of age, of the establishment in which they are located. The placement of video gaming terminals in licensed establishments, licensed truck stop establishments, licensed large truck stop establishments, licensed fraternal establishments, and licensed veterans establishments shall be subject to the rules promulgated by the Board pursuant to the Illinois Administrative Procedure Act.
+(Source: P.A. 101-31, eff. 6-28-19.)
+ 
+    (Text of Section from P.A. 101-318)
+    Sec. 58. Location of terminals. Video gaming terminals in a licensed establishment, licensed fraternal establishment, or licensed veterans establishment must be located in an area that is restricted to persons over 21 years of age and the entrance to the area must be within the view of at least one employee of the establishment who is over 21 years of age.
+    The placement of video gaming terminals in licensed establishments, licensed truck stop establishments, licensed fraternal establishments, and licensed veterans establishments shall be subject to the rules promulgated by the Board pursuant to the Illinois Administrative Procedure Act.
+(Source: P.A. 101-318, eff. 8-9-19.)
+
+    (230 ILCS 40/60)
+    Sec. 60. Imposition and distribution of tax.
+    (a) A tax of 30% is imposed on net terminal income and shall be collected by the Board.
+    Of the tax collected under this subsection (a), five-sixths shall be deposited into the Capital Projects Fund and one-sixth shall be deposited into the Local Government Video Gaming Distributive Fund.
+    (b) Beginning on July 1, 2019, an additional tax of 3% is imposed on net terminal income and shall be collected by the Board.
+    Beginning on July 1, 2020, an additional tax of 1% is imposed on net terminal income and shall be collected by the Board.
+    The tax collected under this subsection (b) shall be deposited into the Capital Projects Fund.
+    (c) Revenues generated from the play of video gaming terminals shall be deposited by the terminal operator, who is responsible for tax payments, in a specially created, separate bank account maintained by the video gaming terminal operator to allow for electronic fund transfers of moneys for tax payment.
+    (d) Each licensed establishment, licensed truck stop establishment, licensed large truck stop establishment, licensed fraternal establishment, and licensed veterans establishment shall maintain an adequate video gaming fund, with the amount to be determined by the Board.
+    (e) The State's percentage of net terminal income shall be reported and remitted to the Board within 15 days after the 15th day of each month and within 15 days after the end of each month by the video terminal operator. A video terminal operator who falsely reports or fails to report the amount due required by this Section is guilty of a Class 4 felony and is subject to termination of his or her license by the Board. Each video terminal operator shall keep a record of net terminal income in such form as the Board may require. All payments not remitted when due shall be paid together with a penalty assessment on the unpaid balance at a rate of 1.5% per month.
+(Source: P.A. 101-31, eff. 6-28-19.)
+
+    (230 ILCS 40/65)
+    Sec. 65. Fees. Except as provided in this Section, a non-home rule unit of government may not impose any fee for the operation of a video gaming terminal in excess of $25 per year. The City of Rockford may not impose any fee for the operation of a video gaming terminal in excess of $250 per year.
+(Source: P.A. 101-337, eff. 1-1-20.)
+
+    (230 ILCS 40/70)
+    Sec. 70. Referendum. Upon the filing in the office of the clerk, at least 90 days before an election in any municipality or county, as the case may be, of a petition directed to such clerk, containing the signatures of not less than 25% of the legal voters of that municipality or county, the clerk shall certify such proposition to the proper election officials, who shall submit the proposition at such election to the voters of such municipality or county. The proposition shall be in the following form:
+--------------------------------------------------------------
+Shall video gaming                      YES
+be prohibited in                       -----------------------
+.................?                      NO
+--------------------------------------------------------------
+If a majority of the voters voting upon such last mentioned proposition in any municipality or county vote "YES", such video gaming shall be prohibited in such municipality or county. The petition mentioned in this Section shall be a public document and shall be subject to inspection by the public.
+(Source: P.A. 96-34, eff. 7-13-09.)
+
+    (230 ILCS 40/75)
+    Sec. 75. Revenue sharing; Local Government Video Gaming Distributive Fund.
+    (a) As soon as may be after the first day of each month, the Department of Revenue shall allocate among those municipalities and counties of this State that have not prohibited video gaming pursuant to Section 27 or Section 70 the amount available in the Local Government Video Gaming Distributive Fund, a special fund in the State Treasury, as provided in Section 60. The Department shall then certify such allocations to the State Comptroller, who shall pay over to those eligible municipalities and counties the respective amounts allocated to them. The amount of such funds allocable to each such municipality and county shall be in proportion to the tax revenue generated from video gaming within the eligible municipality or county compared to the tax revenue generated from video gaming Statewide.
+    (b) The amounts allocated and paid to a municipality or county of this State pursuant to the provisions of this Section may be used for any general corporate purpose authorized for that municipality or county.
+    (c) Upon determination by the Department that an amount has been paid pursuant to this Section in excess of the amount to which the county or municipality receiving such payment was entitled, the county or municipality shall, upon demand by the Department, repay such amount. If such repayment is not made within a reasonable time, the Department shall withhold from future payments an amount equal to such overpayment. The Department shall redistribute the amount of such payment to the county or municipality entitled thereto.
+(Source: P.A. 96-34, eff. 7-13-09.)
+
+    (230 ILCS 40/78)
+    Sec. 78. Authority of the Illinois Gaming Board.
+    (a) The Board shall have jurisdiction over and shall supervise all gaming operations governed by this Act. The Board shall have all powers necessary and proper to fully and effectively execute the provisions of this Act, including, but not limited to, the following:
+        (1) To investigate applicants and determine the
+    	
+eligibility of applicants for licenses and to select among competing applicants the applicants which best serve the interests of the citizens of Illinois.
+        (2) To have jurisdiction and supervision over all
+    	
+video gaming operations in this State and all persons in establishments where video gaming operations are conducted.
+        (3) To adopt rules for the purpose of administering
+    	
+the provisions of this Act and to prescribe rules, regulations, and conditions under which all video gaming in the State shall be conducted. Such rules and regulations are to provide for the prevention of practices detrimental to the public interest and for the best interests of video gaming, including rules and regulations (i) regarding the inspection of such establishments and the review of any permits or licenses necessary to operate an establishment under any laws or regulations applicable to establishments, (ii) to impose penalties for violations of this Act and its rules, and (iii) establishing standards for advertising video gaming.
+    (b) The Board shall adopt emergency rules to administer this Act in accordance with Section 5-45 of the Illinois Administrative Procedure Act. For the purposes of the Illinois Administrative Procedure Act, the General Assembly finds that the adoption of rules to implement this Act is deemed an emergency and necessary to the public interest, safety, and welfare.
+(Source: P.A. 98-31, eff. 6-24-13.)
+
+    (230 ILCS 40/79)
+    Sec. 79. Investigators. Investigators appointed by the Board pursuant to the powers conferred upon the Board by paragraph (20.6) of subsection (c) of Section 5 of the Illinois Gambling Act and Section 80 of this Act shall have authority to conduct investigations, searches, seizures, arrests, and other duties imposed under this Act and the Illinois Gambling Act, as deemed necessary by the Board. These investigators have and may exercise all of the rights and powers of peace officers, provided that these powers shall be (1) limited to offenses or violations occurring or committed in connection with conduct subject to this Act, including, but not limited to, the manufacture, distribution, supply, operation, placement, service, maintenance, or play of video gaming terminals and the distribution of profits and collection of revenues resulting from such play, and (2) exercised, to the fullest extent practicable, in cooperation with the local police department of the applicable municipality or, if these powers are exercised outside the boundaries of an incorporated municipality or within a municipality that does not have its own police department, in cooperation with the police department whose jurisdiction encompasses the applicable locality.
+(Source: P.A. 101-31, eff. 6-28-19.)
+
+    (230 ILCS 40/79.5)
+    Sec. 79.5. Enforcement actions. The Board shall establish a policy and standards for compliance operations to investigate whether a licensed establishment, licensed fraternal establishment, licensed veterans establishment, or a licensed truck stop establishment is: (1) permitting any person under the age of 21 years to use or play a video gaming terminal in violation of this Act; or (2) furnishing alcoholic liquor to persons under 21 years of age in violation of the Liquor Control Act of 1934.
+    The policy and standards for compliance operations under this Section shall be similar to the model policy and guidelines for the operation of alcohol and tobacco compliance checks by local law enforcement officers adopted by the Illinois Law Enforcement Training Standards Board pursuant to subsection (c) of Section 6-16.1 of the Liquor Control Act of 1934. The Board shall adopt the policy and standards in the form of emergency rulemaking that shall be adopted no later than 90 days after the effective date of this amendatory Act of the 101st General Assembly and shall be immediately followed by permanent rulemaking on the same subject.
+    A licensed establishment, licensed fraternal establishment, licensed veterans establishment, or licensed truck stop establishment that is the subject of an enforcement action under this Section and is found, pursuant to the enforcement action, to be in compliance with this Act shall be notified by the Board that no violation was found within 30 days after the finding.
+(Source: P.A. 101-318, eff. 8-9-19.)
+
+    (230 ILCS 40/80)
+    Sec. 80. Applicability of Illinois Gambling Act. The provisions of the Illinois Gambling Act, and all rules promulgated thereunder, shall apply to the Video Gaming Act, except where there is a conflict between the 2 Acts. In the event of a conflict between the 2 Acts, the provisions of the Illinois Gambling Act shall prevail. All current supplier licensees under the Illinois Gambling Act shall be entitled to licensure under the Video Gaming Act as manufacturers, distributors, or suppliers without additional Board investigation or approval, except by vote of the Board; however, they are required to pay application and annual fees under this Act. All provisions of the Uniform Penalty and Interest Act shall apply, as far as practicable, to the subject matter of this Act to the same extent as if such provisions were included herein.
+(Source: P.A. 100-1152, eff. 12-14-18; 101-31, eff. 6-28-19.)
+
+    (230 ILCS 40/85)
+    Sec. 85. Severability. The provisions of the Video Gaming Act are severable pursuant to Section 1.31 of the Statute on Statutes.
+(Source: P.A. 96-37, eff. 7-13-09; P.A. 96-38, eff. 7-13-09.)
+
+
+ 
+    (230 ILCS 40/Art. 800 heading)
+ARTICLE 800.
+(The Capital Spending Accountability Law
+is compiled at 20 ILCS 3020/)
+(Source: P.A. 96-34, eff. 7-13-09.)
+
+
+ 
+    (230 ILCS 40/Art. 900 heading)
+ARTICLE 900.
+(Amendatory provisions; text omitted)
+(Source: P.A. 96-34, eff. 7-13-09; text omitted.)
+
+
+ 
+    (230 ILCS 40/Art. 9999 heading)
+ARTICLE 9999.
+
+(Source: P.A. 96-34, eff. 7-13-09.)
+
+    (230 ILCS 40/9999)
+    Sec. 9999. Effective date. This Act takes effect July 1, 2009, except that the changes to Sections 15-102, 15-107, 15-111, 15-112, 15-113, 15-306, 15-307, and 16-105 of the Illinois Vehicle Code take effect January 1, 2010; but this Act does not take effect at all unless House Bill 312 of the 96th General Assembly, as amended, becomes law.
+(Source: P.A. 96-34, eff. 7-13-09; 96-37, eff. 7-13-09.)
