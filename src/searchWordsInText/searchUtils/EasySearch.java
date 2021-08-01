@@ -4,7 +4,7 @@ import searchWordsInText.api.ISearchEngine;
 
 public class EasySearch implements ISearchEngine {
 
-    private final String symbols = "\"'`!?@№#$%:;^&*_-=+\\|/.,?~()<>{}[]\\t\\n\\r ";
+    private final String symbols = "\"'`!?@№#$%:;^&*_-=+\\|/.,?~()<>{}[]\t\n\r ";
 
     /**
      * Returns the number of a given word repetition in a given string (case sensitive). E.g., the word "May" will be
